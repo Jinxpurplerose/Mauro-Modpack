@@ -273,11 +273,6 @@ file = "mods/connector-2.0.0-beta.14+1.21.1-full.jar"
 hash = "a79817f1076e2e6499b0ab09c4e8c032d04b071341b66d036c3d96112804e51b"
 
 [[files]]
-file = "mods/continents.pw.toml"
-hash = "a6473d0bf71067b7b8a7482a5373f06617a035a3ff111a6061276158b7ceec8b"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "9920b3cadb064073516f8d678e09c0d13a146bc3058725d036323852e5e18f15"
 metafile = true
