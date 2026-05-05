@@ -1,0 +1,13 @@
+name = "Mauro"
+author = "RBkey"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "380e4da1d9c6c61a9b27731965167ed4f9d25abe25658f6dad60a43dcf9a2b9a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
