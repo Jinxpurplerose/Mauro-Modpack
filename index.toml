@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e724528486b0370e3fcc60cf4c071352be161dc525d3cdb5b51bd27f02c66869"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "c69b4f97365eebb9c4b5ddc83bf85ca314c3e6d23c7a199eb42d96936dd31dda"
 
@@ -169,6 +173,11 @@ file = "kubejs/startup_scripts/steel_registry.js"
 hash = "e852296ebd8e86ba4c5f889cbe065e682ca73561e4a352db7f50a2b7e84f30f9"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
+metafile = true
+
+[[files]]
 file = "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar"
 hash = "07f449b7766845883523ffadb8fb706ec011c1212aa378b48bea5841188f0b04"
 
@@ -274,8 +283,8 @@ hash = "9920b3cadb064073516f8d678e09c0d13a146bc3058725d036323852e5e18f15"
 metafile = true
 
 [[files]]
-file = "mods/copycats-aeronautics-weight.pw.toml"
-hash = "5e3e1807657a50181a5001027c888474c3b2852623cdb3f72b71cf10f49a0208"
+file = "mods/copycats+-aeronautics-weight.pw.toml"
+hash = "f887f8c72a61d9d2c7acc5702ebad04fb7e52a7b7eb960bb7fd815cc8492e9dd"
 metafile = true
 
 [[files]]
@@ -305,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
@@ -345,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "9bb04e0450d54cdaaf10120438a5a1139c84fbcf51f9beca3ebb90c9c01eec0a"
+hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
 
 [[files]]
@@ -445,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "67f2c17eba534ea6f5a577b0c8b566dc60ff90385c1aa5787a47a4b046cb1d47"
+hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
 
 [[files]]
@@ -586,7 +595,7 @@ hash = "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
 
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
-hash = "90ddefcf8c4a77e108d4465c7dc1928e3305cde39bce388b526f404d6cd52d37"
+hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
 metafile = true
 
 [[files]]
@@ -747,11 +756,6 @@ hash = "cc9ce18e55788ddd2031e1c0f4d410053bb9b28f76da9d61cc0c9a57260597fa"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "442ea4d2312dd58741a7c1ce1f6ae0514cc528fb0b06e7268807d46b0720d6d9"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
 metafile = true
@@ -850,10 +854,10 @@ hash = "8dddb1c06a8a25f765e4d00f9bc29b6ec89bf9a0f958ffcbd2ac1a8983b2eec8"
 
 [[files]]
 file = "resourcepacks/immersive-interfaces-mod-support-unofficial.pw.toml"
-hash = "fc25034c175c6497d83ec4f14b816cf953da85c954ea5570cefc704318aa5169"
+hash = "046d887c022acb824b40ff0126cc1ab387f0846188b1b8968c7280b887a5f68c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
-hash = "f9e0e094a2ed74d1303dae131eeb0accc5a98bb48aabd413b014bc2901de19d6"
+hash = "a7b531b844f689209d2043d436b20995f0f645fc6b08010a7e1b5944c6c092bb"
 metafile = true
