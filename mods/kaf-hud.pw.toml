@@ -1,0 +1,13 @@
+name = "Kaf HUD"
+filename = "kafhud-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5fd8001a972436d47bc21153e4d66ff2626e34ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5949765
+project-id = 1145891
