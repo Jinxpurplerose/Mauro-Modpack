@@ -1,0 +1,13 @@
+name = "ViewBoard"
+filename = "viewboard-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d666ee331ddd7f4edd68c928f57a887d792d068"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7948488
+project-id = 1485396
