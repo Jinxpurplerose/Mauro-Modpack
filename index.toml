@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "3747472d22dbe3104c5c32039102f727ed30229c10b9ab9e3a4767455bf7694e"
+hash = "17d203a378d5fb9f240ba74670f8a8d8b81c432084a18320fe99b7d4eee343ce"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "2489c8bd3bdc9e3adff7439bb324bbf6a32639085e7e00561acb246db69a4c48"
+hash = "cc8780c9e3d51b70f0919f6367fba567f61046a8ec765504f2e5d912fe962204"
 metafile = true
 
 [[files]]
@@ -653,6 +653,11 @@ hash = "a0ace741bcbe76bfa3c8bfefd042a1aee7583b32039cb48aa381a8ace956a359"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "bbac8cbc56c4a1a14d30f0671a81252978b229066896cba45384c593f67fff7d"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "898f95ce4f3e844456f53bcde4a32d6d223741fe0310caa98c041cedf1bc4138"
 metafile = true
@@ -821,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
+hash = "98d78c67c203a2c4ee387326c38edfcbe92a813346920b7762f607e1537ed4ea"
 metafile = true
 
 [[files]]
