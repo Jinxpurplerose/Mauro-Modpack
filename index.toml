@@ -864,6 +864,11 @@ hash = "64972525c953a235dfd8a72d19d6bffcacde6af383bd761bb22c97b76f1a1e70"
 metafile = true
 
 [[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "094554b8c5af2dbdcbda924450ffb8e969864ceba5b110bdfa1375ba73d30d27"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
