@@ -1,13 +1,13 @@
 name = "ViewBoard"
-filename = "viewboard-neoforge-1.21.1-1.1.0.jar"
+filename = "viewboard-neoforge-1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7d666ee331ddd7f4edd68c928f57a887d792d068"
+hash = "d2695b676651318376b287a6b6311f2d488c1fac"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7948488
+file-id = 7984711
 project-id = 1485396
