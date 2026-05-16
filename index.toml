@@ -220,8 +220,9 @@ hash = "17d203a378d5fb9f240ba74670f8a8d8b81c432084a18320fe99b7d4eee343ce"
 metafile = true
 
 [[files]]
-file = "mods/balm-neoforge-1.21.1-21.0.55.jar"
-hash = "81b0f29d6c0929021065a04476fa5e79a87a006e18654f91d501074151074e14"
+file = "mods/balm.pw.toml"
+hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
+metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
@@ -561,6 +562,11 @@ hash = "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "702a028e2d428d352b4d664a21b0fb6182c20a930888a6c962f557aeba05871f"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
 metafile = true
@@ -687,10 +693,6 @@ metafile = true
 file = "mods/natures-compass.pw.toml"
 hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
 metafile = true
-
-[[files]]
-file = "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar"
-hash = "242267afa324352130adb2263a5667e421c6f4c573ad0dfe0565971255ea5a1e"
 
 [[files]]
 file = "mods/noisiumforked.pw.toml"
