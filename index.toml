@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/crabbers-delight.pw.toml"
-hash = "4b0b06c3380eb5388c989be07e3beabbd3df6c6d50d3601e218af9fa66f609a5"
+hash = "ea7cb5bf6ee3dd0730c0c8984ae063ce996f31cfb10e8b3895bd53ab84a71b7a"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "25b8bdcc9e3aca5c16e79eb3e3deddf7e0c34e5a8038d77c535d948ecfa0661e"
+hash = "404a6f944d9c057e8ea2fd1497298cc9e552191135ee07a8e009058b2707a719"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "7e8a1804eacae7af408e6dcf14e7e673caa745189aa15f0b988295129ad3e510"
+hash = "6afc7937c616d94a4c7f2150da40f5a48c0e1079e8e966b477d96a9dad2ea652"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/display-delight.pw.toml"
-hash = "346d7d01aa2d4f2e8f137267ae6e3f9ffc8bbde039f04b22cde28f0b261075fc"
+hash = "d8cbdd5c836d02ba7e1949e660e14c904bf7b9157fc6f062ce33902adc650a2f"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-delight.pw.toml"
-hash = "7748d68bd8bda1ce086462925833664b9eda5ac484695689f91b45315b7fe7d0"
+hash = "f6cac852e4738f08e9402a58f02fda8d2ac004ed6badcae8f3fd52adfe91a64a"
 metafile = true
 
 [[files]]
@@ -493,7 +493,7 @@ hash = "9fb30ba63cd1da67c22b5bb551b6aba9110affb696e1a511f88c14c4d848940f"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "49185aecb9ea9176fb371ff175e7c052970855b62387fe766c252636c3989cbf"
+hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
 metafile = true
 
 [[files]]
@@ -532,12 +532,18 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "68941f14d305ba92f3d8709c123c826cbbef91b206259b1f50bf0dfff46d5439"
+hash = "687e3a7d7d4789151857c8fbf21c8da8f2026b3cba840811c8d4c07a35da2a95"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-neoforge-1.21.1-1.0.35.jar"
-hash = "86961d4c628344545492c0a4c45c92fd1ea9d8db6863174d0be49d9edccb23b1"
+file = "mods/gputape.pw.toml"
+hash = "c23254e855e6e646ad1f774f0d2871b3bebab2a1fe847385d586089baef49347"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "2ac1df7fad83d36e69b4aaad32f0b952c9b039d7345592bb66934f40a8606224"
+metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -557,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "a94b56dea7472ec5354c8c131b2f397bc319fe8cafdb537a472f7dfc1894d167"
 metafile = true
 
 [[files]]
@@ -639,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/miners-delight-plus.pw.toml"
-hash = "73d3cf8c916f5ad00ff3e94e3d36ddac55499dd2b435abde01799543de067d99"
+hash = "6309c1eba3f762ba6141a0369c5be7673a3056cc3804a8ff424300551157f8bd"
 metafile = true
 
 [[files]]
@@ -649,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a0ace741bcbe76bfa3c8bfefd042a1aee7583b32039cb48aa381a8ace956a359"
+hash = "df576158442ce70c61494ba2ffb94a546bb6f55e25adabdd666b6597c7542688"
 metafile = true
 
 [[files]]
@@ -669,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
-hash = "0311de96add459a26f7411925de34327312a04f1efda04d3b94c1a87bd7ebd9d"
+hash = "6d2a317fd568932754a3263ad6dda2f55781d5f191d752946335d033e293da34"
 metafile = true
 
 [[files]]
@@ -737,8 +748,9 @@ hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
 
 [[files]]
-file = "mods/rhino-2101.2.7-build.81.jar"
-hash = "c79f19d9acea367adc1a8631ffc04c300a6e2b4902994a0111bd283b5e7f19fb"
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
+metafile = true
 
 [[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
@@ -752,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/rustic-delight.pw.toml"
-hash = "fb044664554f57ed7b9337b34a85117399bba7845849b7ffcf948659d89d0a74"
+hash = "993e2fce77d44fbf8be2259705bf21b03d5cdcc317823eafa36f76886d9aae22"
 metafile = true
 
 [[files]]
@@ -801,8 +813,9 @@ hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
-hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
@@ -811,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/steam-n-rails-neoforge.pw.toml"
-hash = "7532b2a14f0e2722b40e89ac41ac14ae117661c81a54babdff9c8719fe796831"
+hash = "ff0bcf358006b6a6a55c406ba2409cf14bbba5bb99d8a5122abcc8b1ade85f04"
 metafile = true
 
 [[files]]
@@ -850,8 +863,9 @@ hash = "b89e34d65849684cb0448a4449e17297144b4e630ec0c2ef528d03398bf66955"
 metafile = true
 
 [[files]]
-file = "mods/twilightdelight-3.1.1.jar"
-hash = "2891897674cb024b223bc03071bd20491b30ec532c372511c2f738d680267ea5"
+file = "mods/twilight-delight.pw.toml"
+hash = "27e90636fdfa7cf22824426238e2085766dc646f5f8f10803b4b81b4a4cd2529"
+metafile = true
 
 [[files]]
 file = "mods/vanillin.pw.toml"
