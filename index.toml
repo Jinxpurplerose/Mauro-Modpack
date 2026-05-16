@@ -664,6 +664,11 @@ hash = "df576158442ce70c61494ba2ffb94a546bb6f55e25adabdd666b6597c7542688"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "1cc192126d1dcd27e12066bd7b78b9f9ab682f01e6fb538963371f7c4ed99e79"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "898f95ce4f3e844456f53bcde4a32d6d223741fe0310caa98c041cedf1bc4138"
 metafile = true
