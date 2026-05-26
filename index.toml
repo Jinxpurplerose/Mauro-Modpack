@@ -5,6 +5,10 @@ file = "README.md"
 hash = "e724528486b0370e3fcc60cf4c071352be161dc525d3cdb5b51bd27f02c66869"
 
 [[files]]
+file = "config/gnetum.json"
+hash = "e454cf6538185ea9162f7252de7a82ac8d0fe1d7712d5774fbad6fd7c0cd6271"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "c69b4f97365eebb9c4b5ddc83bf85ca314c3e6d23c7a199eb42d96936dd31dda"
 
