@@ -274,16 +274,6 @@ hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
-file = "mods/colorwheel-patcher.pw.toml"
-hash = "07a42e0a0be5a9ec43d44a4af7947ab0f0979ae7404ac4192da020f8ce296899"
-metafile = true
-
-[[files]]
-file = "mods/colorwheel.pw.toml"
-hash = "22d151750fbd37222ae4dfec1ab6072137792f2f1aadfb4ea78725fb1da84baf"
-metafile = true
-
-[[files]]
 file = "mods/connector-2.0.0-beta.14+1.21.1-full.jar"
 hash = "a79817f1076e2e6499b0ab09c4e8c032d04b071341b66d036c3d96112804e51b"
 
@@ -586,11 +576,6 @@ hash = "702a028e2d428d352b4d664a21b0fb6182c20a930888a6c962f557aeba05871f"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "29053916d3342e47810c7ad1570d4b25e0c408b85a98c52251fdfb5b5aebc10f"
-metafile = true
-
-[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
 metafile = true
@@ -736,11 +721,6 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
-metafile = true
-
-[[files]]
-file = "mods/particular-reforged.pw.toml"
-hash = "4eecfcde8528907776ed79f09f9a1f5649e4ab009101470c4a6e4abb3e7df6f9"
 metafile = true
 
 [[files]]
@@ -911,11 +891,6 @@ metafile = true
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "094554b8c5af2dbdcbda924450ffb8e969864ceba5b110bdfa1375ba73d30d27"
-metafile = true
-
-[[files]]
-file = "mods/visuality-forge.pw.toml"
-hash = "6bd173a310bf53eb637be4028120671b005880bc19ed94bff97f6a847b20dfca"
 metafile = true
 
 [[files]]
