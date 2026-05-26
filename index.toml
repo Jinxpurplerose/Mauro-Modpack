@@ -929,6 +929,11 @@ file = "resourcepacks/BOP_Renewed_v1.6.zip"
 hash = "8dddb1c06a8a25f765e4d00f9bc29b6ec89bf9a0f958ffcbd2ac1a8983b2eec8"
 
 [[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "6d198fcead3ae516d33d9011f3ecf9717a72b963aadea7a6b3ad7f0c7cada070"
+metafile = true
+
+[[files]]
 file = "resourcepacks/immersive-interfaces-mod-support-unofficial.pw.toml"
 hash = "046d887c022acb824b40ff0126cc1ab387f0846188b1b8968c7280b887a5f68c"
 metafile = true
@@ -936,4 +941,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
 hash = "a7b531b844f689209d2043d436b20995f0f645fc6b08010a7e1b5944c6c092bb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "bc4dcbd6b77adb2180049d63ed4a8981553f06dbf3e32080022ffd87dd1fb09b"
 metafile = true
