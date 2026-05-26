@@ -11,8 +11,3 @@ hash = "b3b702d44eb0da2352802ef8e633607bc10bec5a9d868e73cfca81ae3f2067eb6ef2b582
 [update.modrinth]
 mod-id = "pYFUU6cq"
 version = "Ux3ju67t"
-
-[option]
-optional = true
-default = false
-description = "Enable Particular(even more visual effects)"

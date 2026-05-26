@@ -11,8 +11,3 @@ hash = "902bca40ac980f4aab2564d64cf47a698b18f44234f9757c9125f755f9890d3350ca4e28
 [update.modrinth]
 mod-id = "KPsw5jDu"
 version = "dQqV3sci"
-
-[option]
-optional = true
-default = false
-description = "Enable if using colorwheel"

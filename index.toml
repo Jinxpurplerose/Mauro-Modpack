@@ -275,12 +275,12 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "07a42e0a0be5a9ec43d44a4af7947ab0f0979ae7404ac4192da020f8ce296899"
+hash = "caab0399294fca902849b8eb653f56840bc107d5dbd0b0cbaab3d60ca4cc01f9"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "22d151750fbd37222ae4dfec1ab6072137792f2f1aadfb4ea78725fb1da84baf"
+hash = "c6794559a95c8bcda460fcc8efb0ce0ab3cc817d002ad949fe24e024faac475b"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "6489040cfd14e8eaad6e18b8c9c5251b3d9065a23e5dbf7a299bd45fe5a9d740"
+hash = "f6df2c778ed050992820ebc94f1d7748214fbf8bf5f5800f6e5f34f476c89b2c"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "29053916d3342e47810c7ad1570d4b25e0c408b85a98c52251fdfb5b5aebc10f"
+hash = "83b105e359f17feede2f1fe77bf0f41f40877855fd0d55b6b43a1bd4d4775fab"
 metafile = true
 
 [[files]]
@@ -740,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "4eecfcde8528907776ed79f09f9a1f5649e4ab009101470c4a6e4abb3e7df6f9"
+hash = "b781f388a274d6a658401d59c8ead46f9bf62d963e4f6a45bbfd40f9fd27a3ac"
 metafile = true
 
 [[files]]
@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality-forge.pw.toml"
-hash = "6bd173a310bf53eb637be4028120671b005880bc19ed94bff97f6a847b20dfca"
+hash = "6551a4add19e2724644fde1ca232a7fcc25e2913b22576e66f61a00e42b075d2"
 metafile = true
 
 [[files]]
@@ -951,3 +951,19 @@ metafile = true
 file = "resourcepacks/simple-grass-flowers.pw.toml"
 hash = "bc4dcbd6b77adb2180049d63ed4a8981553f06dbf3e32080022ffd87dd1fb09b"
 metafile = true
+
+[[files]]
+file = "shaderpacks/BSL_v10.1.3.zip"
+hash = "185774628b5259c36255183fc1adeb0f64f89235f7ea2c826fa327d1112687a8"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
+hash = "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.8.1.zip"
+hash = "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965"
+
+[[files]]
+file = "shaderpacks/photon_v1.3b.zip"
+hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"

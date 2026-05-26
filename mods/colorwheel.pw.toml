@@ -11,8 +11,3 @@ hash = "ef1eec8e9347299d59465e935221cfbc3df8f63d4f76792016ef36ae5d779695fe5bf98c
 [update.modrinth]
 mod-id = "BzHgFoGz"
 version = "OmizNLia"
-
-[option]
-optional = true
-default = false
-description = "Compatibility between Flywheel and Iris"

@@ -11,8 +11,3 @@ hash = "7ec2beefea92d32e27abf83da7791fbf2d14cc12341ad96672976c119b475e8b376d663e
 [update.modrinth]
 mod-id = "z13R7Et1"
 version = "ZBidwV02"
-
-[option]
-optional = true
-default = false
-description = "Enable visuality(more visual effects)"
