@@ -478,6 +478,11 @@ hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
 metafile = true
 
 [[files]]
+file = "mods/even-better-nether.pw.toml"
+hash = "8169c8946eaa6d43dff42213a155b6c492d0f9ee44acdf22d9d39f58ad19f489"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "cc8780c9e3d51b70f0919f6367fba567f61046a8ec765504f2e5d912fe962204"
 metafile = true
