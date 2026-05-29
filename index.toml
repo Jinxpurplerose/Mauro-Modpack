@@ -854,11 +854,6 @@ hash = "73bd0f39a0f6673737497e442cb467554e250576a7267cf4db5ec72ef17dfe58"
 metafile = true
 
 [[files]]
-file = "mods/the-beyond.pw.toml"
-hash = "37dd0bf8c83335081b9cf62a49a4835d6af4ba2cc2f4ca225f53b5cfe26d5f73"
-metafile = true
-
-[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
 metafile = true
