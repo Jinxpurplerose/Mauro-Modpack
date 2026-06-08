@@ -245,6 +245,11 @@ hash = "d58e02fd901943506422b03463b6116c1ebcb27204e369f4e9551218a5ba4c1a"
 metafile = true
 
 [[files]]
+file = "mods/bettercombatpunchyfix.pw.toml"
+hash = "0d32763b4e87d5340a9f9ac63bdc6902a4d55b94ddceb4e18e1be1bd78d634d5"
+metafile = true
+
+[[files]]
 file = "mods/betterend-neoforge.pw.toml"
 hash = "50318a3ca39da361d38c2fd9614d48abb5575c244a41fcc6b10873581d0234ed"
 metafile = true
@@ -291,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "c6794559a95c8bcda460fcc8efb0ce0ab3cc817d002ad949fe24e024faac475b"
+hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
 metafile = true
 
 [[files]]
@@ -762,6 +767,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+metafile = true
+
+[[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "1124f89eebf45179ffbe0b81d165e182ae236e171b8687951f870010d0bbb35f"
 metafile = true
 
 [[files]]
