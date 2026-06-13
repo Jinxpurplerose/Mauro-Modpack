@@ -691,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7b4034d9410e0b1aec27f383f289f93337ab1491db0aff5f771612bfa0e9b1b4"
+hash = "7cf42d1cf3f7e27121d6c8fe1a5b66f7ae20b282e52a29ec63b1d43f88267d1c"
 metafile = true
 
 [[files]]
@@ -921,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "9fbeeef3acb3bf75bcd61e7847f2de5281d4f0c9a63fe7bb659185dfd75dffd1"
+hash = "af3b933c5441a76e9124a3d2155082579f183f64d89448168586bae68adf55eb"
 metafile = true
 
 [[files]]
