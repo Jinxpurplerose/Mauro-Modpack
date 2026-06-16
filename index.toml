@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "9f421f2608d2ebdaba2fc5b5371bfceaa2f7669b81c28e46fe7547b33c4a2f66"
+hash = "290b03656e7ec1a67633e044a891f1a785cbdcb273852817b976132dd1ded520"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "cc79252ae16dc896c5e3fd0a5b47114ade035eed270482c13a062e78283f232d"
+hash = "52e54abc2c12ab7b43983fed941192363ccae8ca20424ee3c76fcfbbfde846dc"
 metafile = true
 
 [[files]]
@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "ca426cc1de0456b34a21406ad7b6f2534c3597bbd755cc06c83359e22ca31fa7"
+hash = "7f179887487d188a192a5839651dedfd9f3a1453fac90a2376278a490a31863d"
 metafile = true
 
 [[files]]
