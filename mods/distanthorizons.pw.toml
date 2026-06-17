@@ -11,8 +11,3 @@ hash = "8b39994ee6c5d71b8afacc80c2d13dd92fad10281374392c0049d1b6aebc823d7e137125
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "oYXIfeus"
-
-[option]
-optional = true
-default = false
-description = "Enable DistantHorizons(more render distance)"

@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "662737729361c921d8f559e6a7cfb206952488d5126fce253765a9bcd5855c33"
+hash = "b519c68623e83afb4ada0ceed378670faa99409f7ab2d1de04baeaa597dc517a"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "6489040cfd14e8eaad6e18b8c9c5251b3d9065a23e5dbf7a299bd45fe5a9d740"
+hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
+hash = "c96213eaba8eca9be5e6339efe1da67a74fb6a69f822f6e2e3d7fc316669af56"
 metafile = true
 
 [[files]]
@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "7f179887487d188a192a5839651dedfd9f3a1453fac90a2376278a490a31863d"
+hash = "255ea5a899379a350f13a85e60ddfc6bef1b1062f8792ca6fd839915e1afc97e"
 metafile = true
 
 [[files]]
@@ -696,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "23ae6070690635c357040e1361922474ca25a1b0cc621bd9204070ec6c74acaf"
+hash = "ebca20d77b200ff48f7e431ccffac2c2db6844ef4f9304452a0201f5c0307008"
 metafile = true
 
 [[files]]
@@ -791,12 +791,12 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "c6c1033dc56030eb7154be4557fc6495a5d2f0a303593fa420e81a0ee9f87ebf"
+hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
 metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "ce0e68d65baacfe8ae0631e5ce9dfdedbb18b12ad44000c5168a222f18a9d11e"
+hash = "4c81bc08916b9c2e5eca50387c666be024f7b62dae61b009d8c8839f453a9742"
 metafile = true
 
 [[files]]
