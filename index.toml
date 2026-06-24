@@ -169,8 +169,16 @@ file = "kubejs/startup_scripts/ferrosilicon_registry.js"
 hash = "33bdb694b7be6de17c322304e46298acda443107688bdfe10222dd1511dea6ca"
 
 [[files]]
+file = "kubejs/startup_scripts/heavy_oil.js"
+hash = "4bb055093c5f7ec8f59d5fb82153eebd6c180b43bd5de52f6a4ea878c4c0d3a0"
+
+[[files]]
 file = "kubejs/startup_scripts/netheritesteel_registry.js"
 hash = "fe3cf6d2b56477e860cb74af64208b70877c09b453afd5e07282a45a892358cf"
+
+[[files]]
+file = "kubejs/startup_scripts/petroleum_coke.js"
+hash = "e91d020cfa37c8f22c26bce70a0f4b84afe2a80f23421ee947095a53019a4f51"
 
 [[files]]
 file = "kubejs/startup_scripts/steel_registry.js"
