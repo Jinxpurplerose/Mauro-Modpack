@@ -667,6 +667,11 @@ hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-diesel-generators.pw.toml"
+hash = "9e198088ade63c2d2e83cef7c4c30272fe0480e69d1ff778785eac888fcfe41e"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
 metafile = true
