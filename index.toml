@@ -37,8 +37,16 @@ file = "kubejs/assets/kubejs/textures/fluid/molten_ferrosilicon_still.png"
 hash = "09fd49fb12dd02243e4c70261b99814bc204b8eceb6f8753c44aeba4c73124d5"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/base_cylinders.png"
+hash = "867839a14ffdb6d94d1282d0325ce867f114ddd9c53a18b29d2fa6db14ada0f0"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/cast_iron_billet.png"
 hash = "b37331d5d34a4056e53dba4ef231233ac46c88fb35e9fe42e2d3b0107b8ce0ed"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/engine_base.png"
+hash = "da674dda9707851f8083a709222c67dcd585de0cc3495adc79938c6dea8e6d26"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
@@ -57,8 +65,48 @@ file = "kubejs/assets/kubejs/textures/item/hot_nethersteel_ingot.png"
 hash = "d487e028294324f084139bd195d7055d7970d03e09cf9d846323ebcbb4fc0a34"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/huge_cylinders.png"
+hash = "b69e3b629ed11584e86d2343475b71894d4837cae2672533732d0dd040efc513"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/huge_engine_base.png"
+hash = "19fa23869e2d41c00e69ddc5c64cd748f1925f05dd957a354ffafe35e9703ad0"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_cast_iron_billet.png"
 hash = "90496d4c9651f2f85ff3678b53d8c3475ced06a384ee260da7e3a35ef8604198"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_cylinders.png"
+hash = "4bf20bb76ecbdb73d6742062e4f2165994d07066da02fc8d6409b1ed92cd12a4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_diesel_engine.png"
+hash = "60c6494c04f33756285162f84d48bca252ce3de6ae9f831712cd67b2a52dc1d1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_engine_base.png"
+hash = "1013865bbedd3e5cd743022d943ecae4a8987c73f17d864d99f0bf0bb062a5ca"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_huge_cylinders.png"
+hash = "c69390653d2fe568890cea08d0212882c7d9745fa8ebb4e35cb669533c595b22"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_huge_engine.png"
+hash = "2892923b1738e5dc15317cb9cbdd7d9c1af7ea9dbadb0109a101da7f2c096e87"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_huge_engine_base.png"
+hash = "40bde1bcd5f05703b17da3d6dcbc83c10aabf1d92cea805be0f50887b044a36e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_modular_cylinders.png"
+hash = "e41241e1cd21f4a47252505c6bdaf2094afcefc91f74c683acb2ad91836f3718"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_modular_engine.png"
+hash = "de01c504e695f9814f2117c8519053746aae2eb5b5bd428b0a9989c15b31ef3f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_nethersteel_billet.png"
@@ -69,12 +117,20 @@ file = "kubejs/assets/kubejs/textures/item/incomplete_steel_billet.png"
 hash = "930e38a36966ab00f0fa1e70d0e2adcd9e604b4abb2a0840cc4077ee9d320c75"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/modular_cylinders.png"
+hash = "94b9ef88caf92727523e28c5296f1d9bff7b80b1a06422867c2a8ab922c601f5"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/mold_stamp.png"
 hash = "e763249f0522b35934ea3bed8f478f2c87c58cd320b53843d82d158a6d797bc3"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/nethersteel_billet.png"
 hash = "c3333e82aa99b2d59e3b52b37bd42333c7d14cd999b25b9984c33197434cc875"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/petroleum_coke.png"
+hash = "aefbd72bcf035ba98ef3b2d6cbaf30e68219256c0d7bd4267e26609f446f4791"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/plain_brass_coin.png"
@@ -145,6 +201,10 @@ file = "kubejs/server_scripts/ferrosilicon_process.js"
 hash = "70042aca9eab02ebef4e3fd033036f938e6a7e44e5064dc1f65c612c9d0c7a03"
 
 [[files]]
+file = "kubejs/server_scripts/heavy_oil_distillation.js"
+hash = "6f214e8793698f6c585cf83b355b12711b80819a7c82ca09ab392d20b3eca68d"
+
+[[files]]
 file = "kubejs/server_scripts/modified_engine_aero.js"
 hash = "34e30d6b284b6d81455fd92bcf75dc7bab2d5e83adeca38c8fbf7ddb1d3bb257"
 
@@ -163,6 +223,10 @@ hash = "4c970512dd6d48e17f51b279e6d3349de2c00383f99144031d4d4fb23ef62400"
 [[files]]
 file = "kubejs/startup_scripts/coin_mold_registry.js"
 hash = "a792057a8822409d504fa7b5ec3fae80ee0dec6fd90bb536d64d79eb0552f6ce"
+
+[[files]]
+file = "kubejs/startup_scripts/diesel_engines.js"
+hash = "e67a903faa65e66b75d637b127513191033e279865825f3ff9e28d08fade6b24"
 
 [[files]]
 file = "kubejs/startup_scripts/ferrosilicon_registry.js"
