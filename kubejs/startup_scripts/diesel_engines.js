@@ -71,16 +71,16 @@ StartupEvents.registry('item', event => {
         .texture('kubejs:item/huge_engine_casing')
 
     event.create('huge_engine_control_system') // check
-        .displayName('Huge Engine Controller')
+        .displayName('Engine Controller')
         .texture('kubejs:item/huge_engine_control_system')
 
     /* -- Incomplete versions --*/
 
     event.create('incomplete_huge_engine_casing') // check
-        .displayName('Huge Engine Casing')
+        .displayName('Incomplete Huge Engine Casing')
         .texture('kubejs:item/incomplete_huge_engine_casing')
 
     event.create('incomplete_huge_engine_control_system') // check
-        .displayName('Huge Engine Controller')
+        .displayName('Incomplete Engine Controller')
         .texture('kubejs:item/incomplete_huge_engine_control_system')
 })

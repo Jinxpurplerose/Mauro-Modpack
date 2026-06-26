@@ -114,7 +114,7 @@ hash = "6101814fa7234dc0f6383f1b1bb353abdc7fe795ddd4caa63682aa9a039e12f4"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_huge_engine_control_system.png"
-hash = "0496af770f5da2a4932e0fd9da33d0b4875a8f4f3fabfb86151372e47b2c1489"
+hash = "becf96f72650403bde0b86f7d6ab717559ee5a372b4b59b2bd88268ff92d1c91"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_modular_cylinders.png"
@@ -226,7 +226,7 @@ hash = "34e30d6b284b6d81455fd92bcf75dc7bab2d5e83adeca38c8fbf7ddb1d3bb257"
 
 [[files]]
 file = "kubejs/server_scripts/modified_engine_cdg.js"
-hash = "2ff4d16cf08101e5d180502b7eca20f4aa45f033edf740d0023d3c133b0a7b33"
+hash = "221f04bbb196d05e6bb208a27c6d72da48fdb8f3f0c5af3784e4913fa8ff1ff1"
 
 [[files]]
 file = "kubejs/server_scripts/nethersteel_assembly.js"
@@ -246,7 +246,7 @@ hash = "a792057a8822409d504fa7b5ec3fae80ee0dec6fd90bb536d64d79eb0552f6ce"
 
 [[files]]
 file = "kubejs/startup_scripts/diesel_engines.js"
-hash = "066ff18486f5cdd31a331818983a6f33b3e45fb4b1325cc2a67644b51864ce77"
+hash = "a76d8c44dcce9b8ce82b4c97b63966386eccb77ace60750be2be3b4f734d7606"
 
 [[files]]
 file = "kubejs/startup_scripts/ferrosilicon_registry.js"

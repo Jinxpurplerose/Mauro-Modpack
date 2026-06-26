@@ -85,7 +85,7 @@ ServerEvents.recipes((e) => {
         ],
         compBase,
         [
-            e.recipes.create.deploying(incCylinders_modular, [incCylinders_modular, 'create:smart_fluid_pipe']),
+            e.recipes.create.deploying(incCylinders_modular, [incCylinders_modular, 'kubejs:huge_engine_control_system']),
             e.recipes.create.deploying(incCylinders_modular, [incCylinders_modular, 'createdieselgenerators:engine_piston']),
             e.recipes.create.deploying(incCylinders_modular, [incCylinders_modular, 'create:shaft']),
             e.recipes.create.deploying(incCylinders_modular, [incCylinders_modular, 'alloyed:steel_sheet']),
@@ -208,13 +208,13 @@ ServerEvents.recipes((e) => {
         ],
         'create:iron_sheet',
         [
-            e.recipes.create.deploying(incHugeEngineController, [incHugeEngineController, 'minecraft:redstone']),
-            e.recipes.create.deploying(incHugeEngineController, [incHugeEngineController, 'create:precision_mechanism']),
+            e.recipes.create.deploying(incHugeEngineController, [incHugeEngineController, 'create:fluid_pipe']),
             e.recipes.create.deploying(incHugeEngineController, [incHugeEngineController, 'create:smart_fluid_pipe']),
+            e.recipes.create.deploying(incHugeEngineController, [incHugeEngineController, 'create:precision_mechanism']),
+            e.recipes.create.deploying(incHugeEngineController, [incHugeEngineController, 'create:electron_tube']),
             e.recipes.create.deploying(incHugeEngineController, [incHugeEngineController, 'create:electron_tube']),
             e.recipes.create.pressing(incHugeEngineController, incHugeEngineController)
         ]
-        
     )
     .transitionalItem(incHugeEngineController)
     .loops(1)
