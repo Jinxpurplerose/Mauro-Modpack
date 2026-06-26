@@ -78,7 +78,7 @@ hash = "2ffe66965586b0b9e4254d88ab58291c58fd9daaf3839fd8bc3fe2e8e290cc3f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/huge_engine_control_system.png"
-hash = "1cb75b3fccd1e47d7a7c4ea8dfe5f82350bad8468229a230e0871b42fddb7cd7"
+hash = "f55ae1f88e38a3744cc9f24510d5a1273e1ea237b7a9a799a866b55770a39532"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_cast_iron_billet.png"
@@ -114,7 +114,7 @@ hash = "6101814fa7234dc0f6383f1b1bb353abdc7fe795ddd4caa63682aa9a039e12f4"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_huge_engine_control_system.png"
-hash = "4c9369e0b88f59934de260931d2f02cc2708a60eb5d4eb23a9aaf163e094e831"
+hash = "0496af770f5da2a4932e0fd9da33d0b4875a8f4f3fabfb86151372e47b2c1489"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_modular_cylinders.png"
