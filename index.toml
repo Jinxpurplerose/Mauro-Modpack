@@ -73,6 +73,14 @@ file = "kubejs/assets/kubejs/textures/item/huge_engine_base.png"
 hash = "19fa23869e2d41c00e69ddc5c64cd748f1925f05dd957a354ffafe35e9703ad0"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/huge_engine_casing.png"
+hash = "2ffe66965586b0b9e4254d88ab58291c58fd9daaf3839fd8bc3fe2e8e290cc3f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/huge_engine_control_system.png"
+hash = "1cb75b3fccd1e47d7a7c4ea8dfe5f82350bad8468229a230e0871b42fddb7cd7"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_cast_iron_billet.png"
 hash = "90496d4c9651f2f85ff3678b53d8c3475ced06a384ee260da7e3a35ef8604198"
 
@@ -99,6 +107,14 @@ hash = "2892923b1738e5dc15317cb9cbdd7d9c1af7ea9dbadb0109a101da7f2c096e87"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_huge_engine_base.png"
 hash = "40bde1bcd5f05703b17da3d6dcbc83c10aabf1d92cea805be0f50887b044a36e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_huge_engine_casing.png"
+hash = "6101814fa7234dc0f6383f1b1bb353abdc7fe795ddd4caa63682aa9a039e12f4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_huge_engine_control_system.png"
+hash = "4c9369e0b88f59934de260931d2f02cc2708a60eb5d4eb23a9aaf163e094e831"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_modular_cylinders.png"
@@ -202,11 +218,15 @@ hash = "70042aca9eab02ebef4e3fd033036f938e6a7e44e5064dc1f65c612c9d0c7a03"
 
 [[files]]
 file = "kubejs/server_scripts/heavy_oil_distillation.js"
-hash = "6f214e8793698f6c585cf83b355b12711b80819a7c82ca09ab392d20b3eca68d"
+hash = "4697d1b39a2f985c11711f97730d77a16375e82631144f2f62dffe89bcc385cb"
 
 [[files]]
 file = "kubejs/server_scripts/modified_engine_aero.js"
 hash = "34e30d6b284b6d81455fd92bcf75dc7bab2d5e83adeca38c8fbf7ddb1d3bb257"
+
+[[files]]
+file = "kubejs/server_scripts/modified_engine_cdg.js"
+hash = "2ff4d16cf08101e5d180502b7eca20f4aa45f033edf740d0023d3c133b0a7b33"
 
 [[files]]
 file = "kubejs/server_scripts/nethersteel_assembly.js"
@@ -226,7 +246,7 @@ hash = "a792057a8822409d504fa7b5ec3fae80ee0dec6fd90bb536d64d79eb0552f6ce"
 
 [[files]]
 file = "kubejs/startup_scripts/diesel_engines.js"
-hash = "e67a903faa65e66b75d637b127513191033e279865825f3ff9e28d08fade6b24"
+hash = "066ff18486f5cdd31a331818983a6f33b3e45fb4b1325cc2a67644b51864ce77"
 
 [[files]]
 file = "kubejs/startup_scripts/ferrosilicon_registry.js"
@@ -335,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "ec248c739c6580fed8181e05d210c469414787bdca0fcb5d79a4a6c1aa98ab8d"
+hash = "072a27371a18122081f1b05662b4c2ae18b317413db4fe50c5d655b0d820801c"
 metafile = true
 
 [[files]]
@@ -455,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "791f8a01681bb6bba9bbda74f66ecbf2090d670670e5e47eb078e3c4bf63cad7"
+hash = "2f53821f9a730be6e05f03e8c606a72148f5903d0b15a311c89d470600bcc04e"
 metafile = true
 
 [[files]]
@@ -565,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "fb191314cacdf23f7dc7723ee87509797e5fb4a197c404930f07ed469800903b"
+hash = "e34fd636882f16ffab12093e713acccfa1f60e2fdd70e64e634605d53303f639"
 metafile = true
 
 [[files]]
@@ -625,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "54634cdd10c4c9db965a9d5f5d550fea63f0d4e9e6ff2b112306b5bd0ca84793"
+hash = "1e5d37a3fb41e78708215f521e8b3f3a661b2157bd9e15abf4c39c4eb87621ba"
 metafile = true
 
 [[files]]
@@ -635,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "a081726d4838e7796f3a17634bc3ec13bf207152f8e23f5cf77b917c61dfe0c1"
+hash = "c4871922cfbcf7478bbbe98596acfe2d36151facb69375316100b4fbf9a04e53"
 metafile = true
 
 [[files]]
@@ -830,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "18acfb6f1a54fea702fee947029a260ff6ac865aad5fc64a3ed6193eabac830a"
+hash = "4213ae57a4831180a0a2125c71adcfd129c6476298b9c32ca6491b407e697b59"
 metafile = true
 
 [[files]]
@@ -980,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/viewboard.pw.toml"
-hash = "78a31b8e86d79d304e2cd9b3e93e8b1ef903bd8af902a342ccb27774b3a267a8"
+hash = "5e48ef204ac5a317f406f291fc311f76c293951c97c6aa86ea3cfaba395d7665"
 metafile = true
 
 [[files]]
