@@ -15,4 +15,4 @@ version = "g68FsgfE"
 [option]
 optional = true
 default = false
-description = "Enable LOD rendering, do not enable if using less than 6gb of ram and not using dedicated gpu"
+description = "Enable LOD rendering, do not enable if using less than 6/8 gb of ram and not using dedicated gpu"

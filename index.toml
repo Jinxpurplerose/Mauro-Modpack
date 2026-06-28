@@ -329,6 +329,11 @@ hash = "d58e02fd901943506422b03463b6116c1ebcb27204e369f4e9551218a5ba4c1a"
 metafile = true
 
 [[files]]
+file = "mods/bettercombatpunchyfix.pw.toml"
+hash = "126771f4585ab331ae5a9c57ec7cb0870b0db379e92c9e7b2a980c5636cf326b"
+metafile = true
+
+[[files]]
 file = "mods/betterend-neoforge.pw.toml"
 hash = "50318a3ca39da361d38c2fd9614d48abb5575c244a41fcc6b10873581d0234ed"
 metafile = true
@@ -525,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "30574612fd31ddf971ea40560bbed9d6db353a3c8c0b805363fc85987122be87"
+hash = "50d249d40e9b71c4b20f0883f1aa0f6a63fe6bd2524d3a92b389fce331bbb855"
 metafile = true
 
 [[files]]
@@ -839,6 +844,16 @@ hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "62e267d7451b69f639f6408707d82b3dbbf7e09177924ad2704a60c23fd34be2"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "853fb64dfcbf622519ea02edfa5bd935e819ebc51a406c571e895c4d4ecc419c"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "fc58a3e283c0769d6861b3d07c0a919ba8a35dbca9fa040fbb574a1f5d7bad1a"
 metafile = true
@@ -846,6 +861,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+metafile = true
+
+[[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "eade70f6e89c7c5e10724760173b1aba064d297bd3f06225290e906964917002"
 metafile = true
 
 [[files]]
@@ -1006,6 +1026,11 @@ metafile = true
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "80106ddf7ab5cec205fdf14caf75ce286ffa3be269f7f8a2e6eb87764b3ec4ff"
+metafile = true
+
+[[files]]
+file = "mods/wakes-reforged.pw.toml"
+hash = "aa658f6a63432cd4f9cef0257921ed2db8e8086d3dd6a730535fcd0cb1158e90"
 metafile = true
 
 [[files]]
