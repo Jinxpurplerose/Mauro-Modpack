@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
+hash = "fb6171c8f7ff0d83513b3f75ee5d7a98659559c427d79fb69eb0219639af8a37"
 metafile = true
 
 [[files]]
@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "80106ddf7ab5cec205fdf14caf75ce286ffa3be269f7f8a2e6eb87764b3ec4ff"
+hash = "fd55f78d10d4997f024a80d68bc521287f732cfcd1dd254945a793992c6e2ef5"
 metafile = true
 
 [[files]]
