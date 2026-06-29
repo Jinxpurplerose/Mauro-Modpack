@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
+hash = "8fd1755911bf03439cc1f19ee437864c77b93c972386027d5eb2e8995e6f80fd"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "fc2742e86220ba39d0638c16118108ce1e6be56fbf742664a0818465c2790791"
+hash = "ac4e0cf6211625b432284e8f057592a2a0fa1c2fc33b94f9bf710153c4b79522"
 metafile = true
 
 [[files]]
@@ -735,12 +735,12 @@ metafile = true
 
 [[files]]
 file = "mods/knight-lib.pw.toml"
-hash = "012b7d751dda6a07e55100ff6048377ba488ab78793bd4506c04e88b90358dcc"
+hash = "92e7ff6349a5f3c57b0d00a50ef04fa66f59c24fde8f78caa922e9e8c01efa40"
 metafile = true
 
 [[files]]
 file = "mods/knight-quest-reforged.pw.toml"
-hash = "610b40260bc8ae8b3aa146d53901e44f2977675c92cd2b02b749461f2ba4bc63"
+hash = "0572e51e126d229e410be08665eee968515eb415062e59fb84fcac9a8984975a"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bf3757240109ab1b642e90a8905454aa1ee715d76c55e979f51e96af6f4d07c9"
+hash = "9d84be24f2e6adbf75dec35a2bc9b147c840eefe2a7f4138c40cb7ca315f2678"
 metafile = true
 
 [[files]]
@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "fd55f78d10d4997f024a80d68bc521287f732cfcd1dd254945a793992c6e2ef5"
+hash = "f2556be70d49672bbfa2cef5201fb5e338f6c2842e0170276f8a5b04146a9623"
 metafile = true
 
 [[files]]
