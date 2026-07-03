@@ -21,6 +21,10 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/coal_coke_block.png"
+hash = "333937a844cd9b1bceec289d64c88cb8fec14e40303dd36385230628b021b525"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
@@ -45,6 +49,30 @@ file = "kubejs/assets/kubejs/textures/item/cast_iron_billet.png"
 hash = "b37331d5d34a4056e53dba4ef231233ac46c88fb35e9fe42e2d3b0107b8ce0ed"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/coke.png"
+hash = "3198484da87bad2addc10d84199d476a65f49142ac35590cd64f0ca5225212d4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/copper_dust.png"
+hash = "5de881c4a2815580b6dd34766d34d76ec287f0d8d393a57ee257bcf2172d0b0e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dirty_copper_dust.png"
+hash = "6119c7fdf8e296f16a9eec17876d14d3fa3319865a7de7f75a3bcb576c31429f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dirty_gold_dust.png"
+hash = "47bee9cf261be4da0227bb9acbea06e889c971c2110dab09f5126e8aa399dd8b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dirty_iron_dust.png"
+hash = "de2fda18e65ad69e72772abacd7aa518ccaaa8237c49cf0b00d0a93f61c6bb68"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dirty_zinc_dust.png"
+hash = "534470d11adfbdf44b134accbcb8a2a6a770b05719bcdee83632ac47eace9603"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/engine_base.png"
 hash = "da674dda9707851f8083a709222c67dcd585de0cc3495adc79938c6dea8e6d26"
 
@@ -59,6 +87,10 @@ hash = "a43da9fd77e00592f33ae21739931493536de88622dc436ec3ba6f90c3aeb9c6"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/ferrosilicon_piece.png"
 hash = "a2bb22aba247424125c02e2c2bcc6a2c15ef5eb2685c87e8ac1591ef5ddfdba2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gold_dust.png"
+hash = "a838a18cf92b0ad20b5b39430ca09dcbc51c71dd5c73d5f8ea21a5f07ce94433"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/hot_nethersteel_ingot.png"
@@ -133,6 +165,10 @@ file = "kubejs/assets/kubejs/textures/item/incomplete_steel_billet.png"
 hash = "930e38a36966ab00f0fa1e70d0e2adcd9e604b4abb2a0840cc4077ee9d320c75"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/iron_dust.png"
+hash = "1f72bec02ce356271a8f571a2dd6291828ffb4cd9f2a109ff3963f29b18b9cea"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/modular_cylinders.png"
 hash = "94b9ef88caf92727523e28c5296f1d9bff7b80b1a06422867c2a8ab922c601f5"
 
@@ -185,6 +221,10 @@ file = "kubejs/assets/kubejs/textures/item/steel_billet.png"
 hash = "930e38a36966ab00f0fa1e70d0e2adcd9e604b4abb2a0840cc4077ee9d320c75"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/zinc_dust.png"
+hash = "dd5d3483489197b2047fbb95203a6230144de7cbfd44258ef9c3be8152c021c1"
+
+[[files]]
 file = "kubejs/client_scripts/fluid_color.js"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -206,7 +246,11 @@ hash = "47937f18a1d52739d8056fdda46a761ad25f495b73ddbdb5a2db3fd99ce34322"
 
 [[files]]
 file = "kubejs/server_scripts/alloyed_cbc.js"
-hash = "20f188f3d711a97b6c6fd6941ec42560821e4b3f15586fdd9bc6be02ba88a467"
+hash = "cb920b1e3536c46cd8c85674349826d7176c07816603761fea6ed0e5a6cb1143"
+
+[[files]]
+file = "kubejs/server_scripts/cast_iron_assembly.js"
+hash = "d0cc278c37f1d9d5bf10dfd6b311586943259e5c4f6a89d5f12e490abb53cc5f"
 
 [[files]]
 file = "kubejs/server_scripts/coin_assembly.js"
@@ -221,6 +265,14 @@ file = "kubejs/server_scripts/heavy_oil_distillation.js"
 hash = "4697d1b39a2f985c11711f97730d77a16375e82631144f2f62dffe89bcc385cb"
 
 [[files]]
+file = "kubejs/server_scripts/ind_iron.js"
+hash = "b6adf03ca0acaef0ffee3c8c8ffbc00b3a8023158bf196c19ab132bed888080b"
+
+[[files]]
+file = "kubejs/server_scripts/metallworks_recipes.js"
+hash = "1e890a99cfa689b6d478b77dec9f1fb3da27307edfae680316dafcd4b8c8c270"
+
+[[files]]
 file = "kubejs/server_scripts/modified_engine_aero.js"
 hash = "34e30d6b284b6d81455fd92bcf75dc7bab2d5e83adeca38c8fbf7ddb1d3bb257"
 
@@ -230,11 +282,19 @@ hash = "221f04bbb196d05e6bb208a27c6d72da48fdb8f3f0c5af3784e4913fa8ff1ff1"
 
 [[files]]
 file = "kubejs/server_scripts/nethersteel_assembly.js"
-hash = "b84249cbed70e13d06e6fabbe53e8148b9c49da3c4835ceda3e7ec4bcc482bee"
+hash = "c6d4e99c8617e5b2eb915a4eca67030121e152c64bd636ea45074941509162dc"
 
 [[files]]
 file = "kubejs/server_scripts/server_additions_1.js"
 hash = "d0fafa125cc24d7f8daf7eb19a7f7b82fd3a84c1077f022073f7e88b5fc6f007"
+
+[[files]]
+file = "kubejs/server_scripts/steel_assembly.js"
+hash = "41bde214f995a99c89775582ba38d08ddb1122380bab63bc21633f86d3d390b1"
+
+[[files]]
+file = "kubejs/server_scripts/tags.js"
+hash = "addfc340ae961427d675a456ddb492786a0f467dee10519bfc85b71b6a02f464"
 
 [[files]]
 file = "kubejs/startup_scripts/cast_iron_registry.js"
@@ -250,11 +310,15 @@ hash = "a76d8c44dcce9b8ce82b4c97b63966386eccb77ace60750be2be3b4f734d7606"
 
 [[files]]
 file = "kubejs/startup_scripts/ferrosilicon_registry.js"
-hash = "33bdb694b7be6de17c322304e46298acda443107688bdfe10222dd1511dea6ca"
+hash = "f29e646db7782ce3d150b875065c09840a571d445dc44ab2e90904083d06ccdc"
 
 [[files]]
 file = "kubejs/startup_scripts/heavy_oil.js"
 hash = "4bb055093c5f7ec8f59d5fb82153eebd6c180b43bd5de52f6a4ea878c4c0d3a0"
+
+[[files]]
+file = "kubejs/startup_scripts/metallworks.js"
+hash = "cd19cf0d2301082a411da9ddef2e95d5c32743b7825db139cdf9dc64272821de"
 
 [[files]]
 file = "kubejs/startup_scripts/netheritesteel_registry.js"
@@ -262,7 +326,7 @@ hash = "fe3cf6d2b56477e860cb74af64208b70877c09b453afd5e07282a45a892358cf"
 
 [[files]]
 file = "kubejs/startup_scripts/petroleum_coke.js"
-hash = "e91d020cfa37c8f22c26bce70a0f4b84afe2a80f23421ee947095a53019a4f51"
+hash = "8557c911f77d60be0b39cd3dd30edade91623de10c9b7e174393744b32352594"
 
 [[files]]
 file = "kubejs/startup_scripts/steel_registry.js"
@@ -280,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "5798c0bd260152c6f9b1cade0f3d1f8e4c68194f62e843288b595fe7ffc49fd7"
+hash = "37e53b6dc2af8dee7c2994d79fcfc33e4d90d9481c6b0986ad7b7b29cec00979"
 metafile = true
 
 [[files]]
@@ -305,12 +369,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "76122ac2bb341daceebb19cd69e1f3bf19efea88fa59010865c1b8f02ea1d759"
+hash = "7d5659cf745f95eedf7a907184698eb950d5ef067d011da028b72a578642fe90"
 metafile = true
 
 [[files]]
 file = "mods/bclib-neoforge.pw.toml"
-hash = "b8f9ab3c229ca511126a007b17916155252e510a25368c2277d6896503ee7d97"
+hash = "7acc9e2c6e2059beed22139422caba119d44508763cb4d0ebb21a276be0e993f"
 metafile = true
 
 [[files]]
@@ -335,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend-neoforge.pw.toml"
-hash = "50318a3ca39da361d38c2fd9614d48abb5575c244a41fcc6b10873581d0234ed"
+hash = "8612bb54539b89589f876f2cb009d3eb98671dcb39afc9391ea0b16ef4a7542b"
 metafile = true
 
 [[files]]
@@ -486,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/create-food.pw.toml"
 hash = "2f53821f9a730be6e05f03e8c606a72148f5903d0b15a311c89d470600bcc04e"
+metafile = true
+
+[[files]]
+file = "mods/create-metalwork.pw.toml"
+hash = "2ccd7b4207893b19787f1d94c6df2d41ab114a93d3fffebf51f6914a009c8650"
 metafile = true
 
 [[files]]
@@ -720,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "92a698a0b99bc8e217a63efa9791dbead00af56ea416e9cffd6bacdffa37c99c"
+hash = "84cc0d40e518c782dbed6f582163b034d4d7f82d1e41e38dc907ed77e2836eaa"
 metafile = true
 
 [[files]]
@@ -810,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a58c1322f0d21a88b3a42627374f045fe34a0385ef6630ec516b77d73438accc"
+hash = "bca4d23861040d069b25d0e4bb0c2c763a4e4f54ac51b513c22462253e8cd340"
 metafile = true
 
 [[files]]
@@ -875,12 +944,12 @@ metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "b3319c794604a21514dcaa3e6dc0d1fc1b8a77949d526a4057e4d01f64b0a82a"
+hash = "5e2cf85ca910cfec706d40322b86fb6cce9cdf9c77d31c3651889ae078b60c7c"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "4213ae57a4831180a0a2125c71adcfd129c6476298b9c32ca6491b407e697b59"
+hash = "795e97013f9eae160fc630bfe0b9964889c3db449384b7f77586ff024b289680"
 metafile = true
 
 [[files]]
@@ -995,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8fffbaea812abaf63eef0b1bee642745791a49b54c8689bf3cd62cd29b2b7f81"
+hash = "34ef88b3e43662d1c2a8c5189003b7d4d471fe9909cd162849d13e9f770da50c"
 metafile = true
 
 [[files]]
@@ -1050,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
-hash = "ee8f963ec9dc72467d15af46af53685bc2b199b232c738006e98d91e897834c2"
+hash = "abc282e0dbcdaed60cddb6c75692fcebff131d96dd488b921b34401046a21f06"
 metafile = true
 
 [[files]]

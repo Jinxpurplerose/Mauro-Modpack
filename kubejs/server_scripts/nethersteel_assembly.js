@@ -12,13 +12,17 @@ ServerEvents.recipes(event => {
 
             // Шаг Б: Ковка (Пресс)
             event.recipes.create.pressing(incomplete, incomplete),
+            
+            event.recipes.create.pressing(incomplete, incomplete),
+            
+            event.recipes.create.pressing(incomplete, incomplete),
 
             // Шаг В: Закалка водой в процессе (250mb)
             event.recipes.create.filling(incomplete, [incomplete, Fluid.of('minecraft:water', 250)])
         ]
     )
     .transitionalItem(incomplete)
-    .loops(5) 
+    .loops(10) 
     .id('kubejs:assembly/nethersteel_forging')
     
     // (4) ЭТАП 3: ФИНАЛЬНОЕ ОХЛАЖДЕНИЕ (Вентилятор + Freezing)
@@ -37,7 +41,7 @@ ServerEvents.recipes(event => {
                 "count": 1
             }
         ],
-        "processingTime": 400
+        "processingTime": 1000
     }).id('kubejs:freezing/nethersteel_cooling')
 
 })
