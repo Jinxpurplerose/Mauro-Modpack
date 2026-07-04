@@ -49,6 +49,10 @@ file = "kubejs/assets/kubejs/textures/item/cast_iron_billet.png"
 hash = "b37331d5d34a4056e53dba4ef231233ac46c88fb35e9fe42e2d3b0107b8ce0ed"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/charcoal_dust.png"
+hash = "da97d7a8558089207c2563241a2c1abd1063247fd1dee6a671c3d3fc64ba57be"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/coke.png"
 hash = "3198484da87bad2addc10d84199d476a65f49142ac35590cd64f0ca5225212d4"
 
@@ -221,6 +225,10 @@ file = "kubejs/assets/kubejs/textures/item/steel_billet.png"
 hash = "930e38a36966ab00f0fa1e70d0e2adcd9e604b4abb2a0840cc4077ee9d320c75"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/sulphur_dust.png"
+hash = "77aef57a381bd5d2d35266f62ac372571626bcb9058ada1693d765ecda789888"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/zinc_dust.png"
 hash = "dd5d3483489197b2047fbb95203a6230144de7cbfd44258ef9c3be8152c021c1"
 
@@ -258,15 +266,19 @@ hash = "9381dbcee7046243570dbb9ea106f0074cf07729cd6629242e738d30304091ec"
 
 [[files]]
 file = "kubejs/server_scripts/ferrosilicon_process.js"
-hash = "70042aca9eab02ebef4e3fd033036f938e6a7e44e5064dc1f65c612c9d0c7a03"
+hash = "1b83b646e25be3759ae45d9e263a68654fbf6ff841073881ad730222aef9b141"
+
+[[files]]
+file = "kubejs/server_scripts/gunpowder.js"
+hash = "5c521159e996828d4bee8389e531ed7281abbd9c0d41e2228ae98b79ab82c7c9"
 
 [[files]]
 file = "kubejs/server_scripts/heavy_oil_distillation.js"
-hash = "4697d1b39a2f985c11711f97730d77a16375e82631144f2f62dffe89bcc385cb"
+hash = "04c1bd344d0b8f88a6ad52eae39d44b266f1729e8b0e063e22cd97cc328501bd"
 
 [[files]]
 file = "kubejs/server_scripts/ind_iron.js"
-hash = "b6adf03ca0acaef0ffee3c8c8ffbc00b3a8023158bf196c19ab132bed888080b"
+hash = "40ccfd447eea0a5e6a3c361cfcc43c941c6433a6f6c9ad927a32eb3c16246290"
 
 [[files]]
 file = "kubejs/server_scripts/metallworks_recipes.js"
@@ -294,11 +306,19 @@ hash = "41bde214f995a99c89775582ba38d08ddb1122380bab63bc21633f86d3d390b1"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "addfc340ae961427d675a456ddb492786a0f467dee10519bfc85b71b6a02f464"
+hash = "efb9cb68140f928b092fd79e0cb936e36d5b424f721f717e38094f7115cccba0"
+
+[[files]]
+file = "kubejs/server_scripts/wood_chip.js"
+hash = "d6c47f792506554642bf17caa5eb355982afe553e63c06c97b5f1a018d6c1ac0"
 
 [[files]]
 file = "kubejs/startup_scripts/cast_iron_registry.js"
 hash = "4c970512dd6d48e17f51b279e6d3349de2c00383f99144031d4d4fb23ef62400"
+
+[[files]]
+file = "kubejs/startup_scripts/charcoal_dust.js"
+hash = "3c1ad1b272bdfa8511d4846c6b4984ca483511facf1e050b9b0b04265677880c"
 
 [[files]]
 file = "kubejs/startup_scripts/coin_mold_registry.js"
