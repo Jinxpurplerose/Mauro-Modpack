@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/async-locator-refined.pw.toml"
-hash = "1e4c13b896fbf2abebf9b50f488f64ce54f34924cc74678fde6494ae800a30cd"
+hash = "57a2cb865e61a7bbecc3fd6c56565728f83e47856f005be6edefa9ccc36c3dc9"
 metafile = true
 
 [[files]]
@@ -764,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "702a028e2d428d352b4d664a21b0fb6182c20a930888a6c962f557aeba05871f"
+hash = "8e5e8e0c5e2a5f1de43a73d3e81d0397a3873d383d885a9aaa080a7e0c2b242f"
 metafile = true
 
 [[files]]
@@ -1029,7 +1029,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "80716e98aa14404d71c76ab776e0157b60cd913089bfe12ff8983bed38bbf708"
+hash = "1c2fad4b5ca867b4813fbe8f612db20b52db68929d820e2351ed5dfb477d9ef6"
 metafile = true
 
 [[files]]

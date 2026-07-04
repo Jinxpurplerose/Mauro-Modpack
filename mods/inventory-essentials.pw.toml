@@ -1,13 +1,13 @@
 name = "Inventory Essentials"
-filename = "inventoryessentials-neoforge-1.21.1-21.1.15.jar"
+filename = "inventoryessentials-neoforge-1.21.1-21.1.17.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Boon8xwi/versions/u2c95ldv/inventoryessentials-neoforge-1.21.1-21.1.15.jar"
+url = "https://cdn.modrinth.com/data/Boon8xwi/versions/7oG8uNtJ/inventoryessentials-neoforge-1.21.1-21.1.17.jar"
 hash-format = "sha512"
-hash = "87a278093ef1686e6ec88d4db75bdbb99a051555d7d33ec59a1e5bd0a066df9815fa4296133e0a7af09e6b000a124f3d85dda367d9d2522dbab29453163ba8f0"
+hash = "4acf872f3b62058308b10a546af1b243dfe0a727f858ec26994a2861fd4949c92f89e8cd08979f7bf88e8634bce9079ba7f5752882c72554be49e970df99179a"
 
 [update]
 [update.modrinth]
 mod-id = "Boon8xwi"
-version = "u2c95ldv"
+version = "7oG8uNtJ"

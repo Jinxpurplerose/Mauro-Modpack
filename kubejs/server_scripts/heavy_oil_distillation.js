@@ -43,4 +43,24 @@ ServerEvents.recipes((e) => {
     )
     .heated()
     .id('kubejs:mixing/asphalt_block');
+
+    e.recipes.createdieselgenerators.basin_fermenting(
+        [
+            'kubejs:petroleum_coke',
+             CreateItem.of('kubejs:sulphur_dust', 0.15)
+        ],
+        [Fluid.of('kubejs:heavy_oil', 90)]
+    )
+    .processingTime(600)
+    .superheated();
+
+    e.recipes.createdieselgenerators.bulk_fermenting(
+        [
+            'kubejs:petroleum_coke',
+             CreateItem.of('kubejs:sulphur_dust', 0.30)
+        ],
+        [Fluid.of('kubejs:heavy_oil', 90)]
+    )
+    .processingTime(450)
+    .superheated();
 });

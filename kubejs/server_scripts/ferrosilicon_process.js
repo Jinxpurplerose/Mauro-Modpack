@@ -8,19 +8,26 @@ ServerEvents.recipes(event => {
         [
             '2x minecraft:quartz',
             'create:crushed_raw_iron',
-            Ingredient.of('#minecraft:coals').withCount(1)
+            Ingredient.of('#minecraft:coals').withCount(4)
         ]
-    ).id('kubejs:mixing/ferrosilicon_compound')
+    ).id('kubejs:mixing/ferrosilicon_compound_from_coal');
 
-    // 2. СПЕКАНИЕ (Требуется SUPERHEATED)
+    event.recipes.create.mixing(
+        'kubejs:ferrosilicon_compound',
+        [
+            '2x minecraft:quartz',
+            'create:crushed_raw_iron',
+            Ingredient.of('kubejs:coal_coke').withCount(1)
+        ]
+    ).id('kubejs:mixing/ferrosilicon_compound_from_coke');
+
     event.recipes.create.mixing(
         'kubejs:ferrosilicon_ingot',
         'kubejs:ferrosilicon_compound'
-    ).superheated().id('kubejs:sintering/ferrosilicon_ingot')
+    ).superheated().id('kubejs:sintering/ferrosilicon_ingot');
 
-    // 3. ПРЕССОВАНИЕ
     event.recipes.create.pressing(
         '4x kubejs:ferrosilicon_nugget',
         'kubejs:ferrosilicon_ingot'
-    ).id('kubejs:pressing/ferrosilicon_split')
+    ).id('kubejs:pressing/ferrosilicon_split');
 })
