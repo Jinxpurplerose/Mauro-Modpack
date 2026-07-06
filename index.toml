@@ -237,6 +237,10 @@ file = "kubejs/client_scripts/fluid_color.js"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "kubejs/client_scripts/hide_items.js"
+hash = "a272dd0b02dcca6b8b39c6a7c87faeeb105230d4c0f03c8ff1933d83d6f0e61f"
+
+[[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
@@ -259,6 +263,10 @@ hash = "cb920b1e3536c46cd8c85674349826d7176c07816603761fea6ed0e5a6cb1143"
 [[files]]
 file = "kubejs/server_scripts/cast_iron_assembly.js"
 hash = "d0cc278c37f1d9d5bf10dfd6b311586943259e5c4f6a89d5f12e490abb53cc5f"
+
+[[files]]
+file = "kubejs/server_scripts/cheese_fix.js"
+hash = "623acb1bacb8deca34f77c54cb218d1e4635f658a12d4e3c96c9ac0b440bda4c"
 
 [[files]]
 file = "kubejs/server_scripts/coin_assembly.js"
