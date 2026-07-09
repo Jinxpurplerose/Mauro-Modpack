@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/knight-lib.pw.toml"
-hash = "bfdbe35c4494eef98bff3bdfd08277b9678ab776a9deb3756c89741b90de02c9"
+hash = "552d76a097aeb6ae0e8262a29bda401d79b38d57ef81306c6b15456c448ed372"
 metafile = true
 
 [[files]]
