@@ -1137,7 +1137,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "8144ea02c64bf2f3cb2aa163b39e0ec66ee3cd739c5c27750d48aacf01ad3ecf"
+hash = "ac47c20d97ad6eec049684f3accf4552d96c73e28fe9404cf3dcc7bbeb9b5237"
 metafile = true
 
 [[files]]
