@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "9da862e438f4561dc451ba83097b47c65168b922dc942d09d88f2440cb13f2e8"
+hash = "f6b284afd919ce69a2692a1266604e81042fb0b25ffed031d25db7c1109eea9c"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "b519c68623e83afb4ada0ceed378670faa99409f7ab2d1de04baeaa597dc517a"
+hash = "e4aec65fd9c720febf3866b63f4f95c0ca03d8d79b9d09522dad9e5de18c14d8"
 metafile = true
 
 [[files]]
@@ -977,12 +977,12 @@ metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "5e2cf85ca910cfec706d40322b86fb6cce9cdf9c77d31c3651889ae078b60c7c"
+hash = "70c6650f6b2a798377824bb2035808a8f54e8f1a3c2165788e06a036215df499"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "795e97013f9eae160fc630bfe0b9964889c3db449384b7f77586ff024b289680"
+hash = "8f47f534372061308021b082fe67802a0bb6cb323e1dbbeb911c461b4cfe0518"
 metafile = true
 
 [[files]]
