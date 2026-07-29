@@ -15,4 +15,4 @@ version = "jssHGPbO"
 [option]
 optional = true
 default = false
-description = "Adds realistic wake, ripple, and splash effects to water when players, entities, or boats move through it.\n\nWHAT: May look visually bad when paired with shaders that make water highly realistic."
+description = "Adds realistic wake, ripple, and splash effects to water when players, entities, or boats move through it.\n\nDISCLAIMER: May look visually bad when paired with shaders that make water highly realistic."
