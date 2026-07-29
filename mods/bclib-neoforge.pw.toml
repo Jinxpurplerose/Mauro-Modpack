@@ -1,13 +1,13 @@
 name = "BCLib Neoforge"
-filename = "bclib-21.0.22.jar"
+filename = "bclib-21.0.24.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7bdKEtKC/versions/GnVU7psx/bclib-21.0.22.jar"
+url = "https://cdn.modrinth.com/data/7bdKEtKC/versions/yP1KgNNX/bclib-21.0.24.jar"
 hash-format = "sha512"
-hash = "fe0e8f21b341b34a6f281529ef93c8c3d4796fbc51401fcb9001defc8a9df7edcd7095aae6f602e8086290be662dd48c52b632bf0da49a78ecd22e463bd451ae"
+hash = "e187687d77c988c760d7a59b7a1a1eebbafcc692e5b7b673ead36601519d6e7f8196d2a117eac58f2340b2c5f1b4fdfbbd7f0e5f2f7f4dbf1f43c32a9fdc570c"
 
 [update]
 [update.modrinth]
 mod-id = "7bdKEtKC"
-version = "GnVU7psx"
+version = "yP1KgNNX"
