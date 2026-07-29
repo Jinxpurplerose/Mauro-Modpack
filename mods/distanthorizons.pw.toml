@@ -14,4 +14,4 @@ version = "ZpKb4kZp"
 
 [option]
 optional = true
-description = "Enable LOD rendering, do not enable if using less than 6/8 gb of ram and not using dedicated gpu"
+description = "Significantly increases your render distance by adding Level of Detail (LOD) terrain.\n\nWARNING: Do not enable if using less than 6-8 GB of RAM or if you are not using a dedicated GPU!"
