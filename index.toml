@@ -1131,6 +1131,11 @@ hash = "a778178142291a92adbc31f57914b8366964a1f81038969c9e53a670dfc004f1"
 metafile = true
 
 [[files]]
+file = "mods/too-many-entities.pw.toml"
+hash = "41e93be7505e5efbf03d0b67fa600def8d356dfd7e2a2c76aaf0f8e1bf6b56ea"
+metafile = true
+
+[[files]]
 file = "mods/trail-tales-delight.pw.toml"
 hash = "b89e34d65849684cb0448a4449e17297144b4e630ec0c2ef528d03398bf66955"
 metafile = true
