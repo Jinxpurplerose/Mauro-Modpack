@@ -802,12 +802,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "4b9084982f41eebd17dfeea10028df428997978c76b5d893f010d69bfb767378"
+hash = "c3573d920cbebe9a1b174d2616c527ebe064b30787de2b1f01205d6716bd45da"
 metafile = true
 
 [[files]]
 file = "mods/iris-shader-folder.pw.toml"
-hash = "8777221525ab1cb9273c507fdabb2dbc86aac2fc415aa6002df27ed287528eb0"
+hash = "fd760f59469d9dd44dce99b33393c4b3a99a76e9f8115d571b63baa3ed0d289e"
 metafile = true
 
 [[files]]
