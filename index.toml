@@ -801,6 +801,21 @@ hash = "8e5e8e0c5e2a5f1de43a73d3e81d0397a3873d383d885a9aaa080a7e0c2b242f"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "a5796d2f0e2bb80f08010f6a684b995c9cde25e8315f6dfe9ab5a5b99969f404"
+metafile = true
+
+[[files]]
+file = "mods/iris-shader-folder.pw.toml"
+hash = "88d8ada9b75f97e7e32fae50b03c9c70c218b11d9f12c569f7d0472f34d1a1a2"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "31511ac950af6dedf658b3e6c83e8092aad8a4355a5447270ae4c1c95403e77e"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
 metafile = true
