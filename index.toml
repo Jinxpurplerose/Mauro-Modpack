@@ -1161,6 +1161,11 @@ hash = "3dc8b4dd274b51761de3799fdbb1680aa74263ed790b4224bcaa2dccab85477b"
 metafile = true
 
 [[files]]
+file = "mods/visuality-forge.pw.toml"
+hash = "e58928e10c503de8a82e8de066d7f17e96a1e67d7bc452386dac8695a48874fc"
+metafile = true
+
+[[files]]
 file = "mods/wakes-reforged.pw.toml"
 hash = "73a6a1a6e815338f846e9dc541323753c4cd1323cb750ec5e5abee96e535c445"
 metafile = true
