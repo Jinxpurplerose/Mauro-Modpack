@@ -15,4 +15,4 @@ version = "gxO1XUMR"
 [option]
 optional = true
 default = false
-description = "More visual effects"
+description = "Enhances various in-game particle effects to make the world feel more dynamic and visually appealing."

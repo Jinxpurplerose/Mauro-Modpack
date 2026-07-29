@@ -15,4 +15,4 @@ version = "EYLy5ekm"
 [option]
 optional = true
 default = false
-description = "Enable if punchy is enabled"
+description = "A compatibility patch that fixes issues between the Better Combat and Punchy! mods.\n\nWARNING: You MUST also enable the Punchy! mod for this to work!"

@@ -15,4 +15,4 @@ version = "RdmddaSy"
 [option]
 optional = true
 default = false
-description = "Allows you to organize your shader packs into folders within the video settings. WARNING: You MUST also enable the Iris mod for this to work, otherwise your game will crash!"
+description = "Allows you to organize your shader packs into folders within the video settings.\n\nWARNING: You MUST also enable the Iris mod for this to work, otherwise your game will crash!"

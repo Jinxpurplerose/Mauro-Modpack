@@ -15,4 +15,4 @@ version = "jssHGPbO"
 [option]
 optional = true
 default = false
-description = "Wakes from water"
+description = "Adds realistic wake, ripple, and splash effects to water when players, entities, or boats move through it."

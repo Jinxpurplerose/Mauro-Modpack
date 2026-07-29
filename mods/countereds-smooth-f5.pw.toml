@@ -15,4 +15,4 @@ version = "q4V8O9ce"
 [option]
 optional = true
 default = false
-description = "Improved f5 visuals"
+description = "Adds smooth and cinematic camera transitions when switching between first-person and third-person views (pressing F5)."

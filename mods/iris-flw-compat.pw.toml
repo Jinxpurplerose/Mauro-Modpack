@@ -15,4 +15,4 @@ version = "6ZQz5Ow2"
 [option]
 optional = true
 default = false
-description = "Adds rendering compatibility between Iris shaders and the Create mod (Flywheel engine) to prevent visual glitches. WARNING: You MUST also enable the Iris mod for this to work, otherwise your game will crash!"
+description = "Adds rendering compatibility between Iris shaders and the Create mod (Flywheel engine) to prevent visual glitches.\n\nWARNING: You MUST also enable the Iris mod for this to work, otherwise your game will crash!"

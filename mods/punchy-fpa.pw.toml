@@ -14,4 +14,4 @@ version = "RYt48afN"
 
 [option]
 optional = true
-description = "Better 1st person visuals"
+description = "Adds satisfying screen shake and impact effects to combat and breaking blocks to make interactions feel more punchy."

@@ -15,4 +15,4 @@ version = "CJeVXIae"
 [option]
 optional = true
 default = false
-description = "Better rain and effects during thunderstorms in particular biomes(deserts, tundras)"
+description = "Replaces the default vanilla weather effects with immersive, physics-based rain and snow particles."
