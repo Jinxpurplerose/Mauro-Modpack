@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "5906ab9415bb5d894dc41bc4b0035d3c22e261877cf8578c2c4c45af8b4bb159"
+hash = "f4ed8dbabc400434daa13b37041055261f3a74af387e4aea8ba8ca12ef142b4c"
 metafile = true
 
 [[files]]
@@ -837,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d603b1fbfdbc5ec69848e5d3fde577259dedeb0f4fa8ca3261c24b4a31605639"
+hash = "8b6e960f6f519b69738e9a58d6cac89ce494f1ae15fea6e86139eea9a244e714"
 metafile = true
 
 [[files]]
@@ -1067,7 +1067,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
+hash = "30172206e910599e13e40746a425338f0aa010b8f5f12ecdbb8ee32d08c61f31"
 metafile = true
 
 [[files]]
@@ -1137,7 +1137,7 @@ metafile = true
 
 [[files]]
 file = "mods/trail-tales-delight.pw.toml"
-hash = "b89e34d65849684cb0448a4449e17297144b4e630ec0c2ef528d03398bf66955"
+hash = "e9063395a5a911a44b85fe0f589c7de0e1df4967026747577bd7610a8a41d951"
 metafile = true
 
 [[files]]
