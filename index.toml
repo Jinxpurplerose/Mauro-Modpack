@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "5e5c00ceaf708379a4377c94a2a8cd102bc1033e8e066ef028c363028a71ccf0"
+hash = "5b37f91a44ffb8b6db51eef52d0663be2df6164d1a4fe3661a030dc816473951"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend-neoforge.pw.toml"
-hash = "96bd0df64af9367938f910122fd58bb652e70dbc29d96b17630478d1c4523f47"
+hash = "29b1c8d4a5589432ee0f082acc0ec44843c72072e2d9b94fb3959645d6d0d530"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "dfc42a26ddd76ee99cad6f023e0c14c82cbb91d2338f7eeac678a05e3e2a13fa"
+hash = "c19c2e5a0b485648c801c4663ece3596d7e3bd1164f9065f27242346655066bf"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "2e29c21d4d3f24894b9faa658c2d2183f33042d92660d89741333397f2bfa427"
+hash = "c12d2dc7c116f12a8f321b1c5fcd3a0231eb06dcebfe4e08231b91c915abc337"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "a0b3083a1577130adb77867a6f8b6cf0c5bdd3c0c8b2995fa8b5fca323ed09a0"
+hash = "bdc751ad0e632ae3b25839d12bd5d548f575719baf61767b5ab64aa99d120ccc"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
-hash = "e88253c3633274c212b2c4628a26ba03ceba6afff561eb6f9488689fad4cad06"
+hash = "6b600644bc76fcb7e45921d5d3dc55605fc155add265c04ed79a1545ba9109d0"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-diesel-generators.pw.toml"
-hash = "9e198088ade63c2d2e83cef7c4c30272fe0480e69d1ff778785eac888fcfe41e"
+hash = "8a23a0222e0d6bd3f248c4a4be2fbe87945c647ff805cd36bface2404582b4b0"
 metafile = true
 
 [[files]]
@@ -947,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
-hash = "6d2a317fd568932754a3263ad6dda2f55781d5f191d752946335d033e293da34"
+hash = "ceca044e7cabf16b147a79c0800235249d26a95075058970c77957b1a1054d3c"
 metafile = true
 
 [[files]]
@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a1ba6937e12284663e5f9df02c5290339db45eb790316e257e1050241cfd65a0"
+hash = "43177938c13d61cb0796b59dd8d7f3bf521532bb9394ca0867aec89c45d003de"
 metafile = true
 
 [[files]]
@@ -1217,6 +1217,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
 hash = "6576e0f2a199e626872973b61fa925d6055c90442901e88e705815d1ef48888d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/villager-variety.pw.toml"
+hash = "e6a8aefa223576e123f4730e107a6d0aeff2960a8d045831103183677b3b5c99"
 metafile = true
 
 [[files]]
