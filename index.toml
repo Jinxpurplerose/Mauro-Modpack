@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "5b37f91a44ffb8b6db51eef52d0663be2df6164d1a4fe3661a030dc816473951"
+hash = "15f78b73526d2ea8a84e70649e4bc10e342659e0c2aa174f1b56d8d30e1fa0c2"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "013b12bfe553783f905a6a667dc6aa28475b3077c10e57a85462e09a912830ad"
+hash = "fa4ac92194cf35913966ff39d83cb5049e2985ab3b8d66b098c879837567eef6"
 metafile = true
 
 [[files]]
