@@ -616,6 +616,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/createaeronautics-mechanical-roller-fix.pw.toml"
+hash = "8954513492add2a05fd808480b95be3cfc5cd203d15d4e89e2b4db533a8acfdf"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "51851da1eec44c74801f9b00525c119aa136be6b4c4ba2b5bd8b6d0dcf4791df"
 metafile = true
@@ -1038,6 +1043,11 @@ metafile = true
 [[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "83af3a46d3e6592aa591a627dc53d81ce26977a68a410da6c5722f1c241d7f25"
+metafile = true
+
+[[files]]
+file = "mods/sable-dynamic-lights.pw.toml"
+hash = "dfc0f3c78bbbf2123b4459ad3f1706c98799fed6ab445bdc915f4f5233a000d1"
 metafile = true
 
 [[files]]
