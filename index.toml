@@ -551,6 +551,11 @@ hash = "5c4c63c7e91f5e2a012d5d0e9cd28e5aed5904b59d6d7d8424b28d7aa6060907"
 metafile = true
 
 [[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "b06582bdf461277d180b55a2ffc6ab3f41196858c4866692bf473a6413d867f4"
+metafile = true
+
+[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "39d487bdf8979cc0b63a0d34ace0477e9aae5835e33fd9213aecca994025eca1"
 metafile = true
@@ -842,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1ac053182c9bc2e1f178cc8b656ec50ccd0d21d18f6f4a35377eccb44412354d"
+hash = "3f442a150d1a9e60f31626f6da4e4c0a5422ff2d83c3566fece2b331e726f881"
 metafile = true
 
 [[files]]
@@ -1057,7 +1062,7 @@ metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "9236aaac552861f727a9a3baaf2d535eb45ccb5103a6f87a6c56653039f83c6c"
+hash = "5678906e07766684d2586009d338363a95747b4c489624d8906318d0150aae31"
 metafile = true
 
 [[files]]
