@@ -837,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8b6e960f6f519b69738e9a58d6cac89ce494f1ae15fea6e86139eea9a244e714"
+hash = "1ac053182c9bc2e1f178cc8b656ec50ccd0d21d18f6f4a35377eccb44412354d"
 metafile = true
 
 [[files]]
@@ -1037,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/rustic-delight.pw.toml"
-hash = "379d557d5e3d077d947f1158b4f4139a87841291578492f4d0bddba42f5eceff"
+hash = "83af3a46d3e6592aa591a627dc53d81ce26977a68a410da6c5722f1c241d7f25"
 metafile = true
 
 [[files]]
