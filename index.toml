@@ -261,6 +261,10 @@ file = "kubejs/server_scripts/alloyed_cbc.js"
 hash = "cb920b1e3536c46cd8c85674349826d7176c07816603761fea6ed0e5a6cb1143"
 
 [[files]]
+file = "kubejs/server_scripts/biodiesel_fix.js"
+hash = "1f1a242e2ee2cfa4db0688a2939d3730c0d7a6fdba7f080eaff58d75bacdf06a"
+
+[[files]]
 file = "kubejs/server_scripts/cast_iron_assembly.js"
 hash = "d0cc278c37f1d9d5bf10dfd6b311586943259e5c4f6a89d5f12e490abb53cc5f"
 
@@ -552,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-coasters-simulated.pw.toml"
-hash = "b06582bdf461277d180b55a2ffc6ab3f41196858c4866692bf473a6413d867f4"
+hash = "8d3d93487823b5c630123d9796f670114f9ffefc5361fc133a6a30be2f6369ed"
 metafile = true
 
 [[files]]
@@ -1177,7 +1181,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality-forge.pw.toml"
-hash = "76cfe011a189380c960609c36d25e1c8ff8e6b9c0b7bc0c9210e0b6650088bd1"
+hash = "0cb5607d55c18f92ca602dbc8a3b36105abf4bec9d373ddb64445352b95a21f8"
 metafile = true
 
 [[files]]
