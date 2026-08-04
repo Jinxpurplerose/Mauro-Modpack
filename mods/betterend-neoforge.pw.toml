@@ -1,13 +1,13 @@
 name = "BetterEnd Neoforge"
-filename = "BetterEnd-21.0.30.jar"
+filename = "BetterEnd-21.0.31.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IcERKldh/versions/FsM82vug/BetterEnd-21.0.30.jar"
+url = "https://cdn.modrinth.com/data/IcERKldh/versions/tBkQUeaj/BetterEnd-21.0.31.jar"
 hash-format = "sha512"
-hash = "066ea880caf7b39df37452042be790cd4c993f1976fd84a5efe2303dc696c73712c8f4b99163ccf3f0b9d597508fe992cc44ba1efd908e7b91edf17c34c90245"
+hash = "3b6dae17a2bc891c46ac7f76d1ee5de5fb5bf6c2ba05343528e3ae9d492d88676a5ca090c93388d7e860f55296422456f9d99269e1f328869a18ba3dbf7b21f2"
 
 [update]
 [update.modrinth]
 mod-id = "IcERKldh"
-version = "FsM82vug"
+version = "tBkQUeaj"

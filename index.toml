@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend-neoforge.pw.toml"
-hash = "29b1c8d4a5589432ee0f082acc0ec44843c72072e2d9b94fb3959645d6d0d530"
+hash = "a4b78dad3d3454bb1acd4dc02e2fd56b7e04a39e2a7c310ff4313891dceefc5f"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternether-neoforge.pw.toml"
-hash = "74c452036e766a7c6604efaa5cb0080ea7a582fb6fa6ba45b1448ad51191b48f"
+hash = "68d351065a31932ca889b576535c7893e40ff9979fbc1b71df9c236054d951fc"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "6765cbdd57396dacf7ba925f8939496a2c67a8c9695a40a6099f8b7bdb65beb6"
+hash = "6fb1b211e2501d43628ae5d1b7c65616341235d39a5b5f608cf0a06a350c1e21"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/enders-delight.pw.toml"
-hash = "7e352e8e1ee8ff198913a6dbcb1c1ee0e9165f52c4e78938a3dcbecfd5b32add"
+hash = "1598c4eaca8666404c4d1dbf117c7afff4aaa384cd3d4dc131a8a11b7dfc1616"
 metafile = true
 
 [[files]]
@@ -851,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3f442a150d1a9e60f31626f6da4e4c0a5422ff2d83c3566fece2b331e726f881"
+hash = "151c6109fbf47211edc068a924e11c4b9a76dd60ce9e1561d467ac5d82dd698e"
 metafile = true
 
 [[files]]
@@ -1156,7 +1156,7 @@ metafile = true
 
 [[files]]
 file = "mods/trail-tales-delight.pw.toml"
-hash = "e9063395a5a911a44b85fe0f589c7de0e1df4967026747577bd7610a8a41d951"
+hash = "4a29b1865d3f3908bd13457d7b701c25a809e2212da9a921394ecdd162f56eb6"
 metafile = true
 
 [[files]]
