@@ -605,6 +605,11 @@ hash = "d327df3f6a94994d53cd6095cb8e0af813cab6e31ba49bc5f048ebfdd42d4b6e"
 metafile = true
 
 [[files]]
+file = "mods/create-more-parallel-pipes.pw.toml"
+hash = "fe642f391d1da67b5308987fb8ed3f4e1914d92bb181d8c05c6f5635e886b635"
+metafile = true
+
+[[files]]
 file = "mods/create-radars.pw.toml"
 hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
 metafile = true
