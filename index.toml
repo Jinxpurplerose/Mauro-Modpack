@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e9a8d009d97c91d0db1fc1411396e7279d659d613d6f051cc3f44d2b669011af"
+hash = "24dd4c8fdc65774d96e10b0ee313cd5e8e44675a295671d5d47d0ab4bb35b15d"
 metafile = true
 
 [[files]]
@@ -620,8 +620,8 @@ hash = "572ec7a57be68aa913863f4fa3be7208ae3dbb846043f3c5890a290976b41f90"
 metafile = true
 
 [[files]]
-file = "mods/create-tracks.pw.toml"
-hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
+file = "mods/create-tracks+.pw.toml"
+hash = "967d62bf386e87dc66ebe3dd2d6e1368bd0d0c155cb6f120a37c37802165920c"
 metafile = true
 
 [[files]]
