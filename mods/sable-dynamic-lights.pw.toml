@@ -11,3 +11,7 @@ hash = "d0c14dfd60adc41e1084a6a3c7b08ffb7122bb89c97bab2fc9c722e4761b174d2009f6a2
 [update.modrinth]
 mod-id = "KKb9KQzX"
 version = "vjb0hAWB"
+
+[option]
+optional = true
+description = "An optional LambDynamicLights addon. It allows held lights to properly illuminate Create contraptions, and lets light blocks on contraptions illuminate the surrounding world.\n\nWARNING: Can cause severe FPS drops near moving Create contraptions(like trains)."

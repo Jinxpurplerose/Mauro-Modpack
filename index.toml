@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "2f53821f9a730be6e05f03e8c606a72148f5903d0b15a311c89d470600bcc04e"
+hash = "0eb96a006037be8217da17688648066ad87364f96015aa77cfcebcbebb0a599f"
 metafile = true
 
 [[files]]
@@ -851,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
+hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
 metafile = true
 
 [[files]]
@@ -1061,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-dynamic-lights.pw.toml"
-hash = "dfc0f3c78bbbf2123b4459ad3f1706c98799fed6ab445bdc915f4f5233a000d1"
+hash = "6e5e4ae108773598dff19761e60b0db31249afb29c8bb2fb6630809a4689c8bc"
 metafile = true
 
 [[files]]
@@ -1181,7 +1181,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "3dc8b4dd274b51761de3799fdbb1680aa74263ed790b4224bcaa2dccab85477b"
+hash = "577123bcc805ab589e818d4659ec0b45d2dee373ddeae973697887223b8cf27d"
 metafile = true
 
 [[files]]
