@@ -380,6 +380,11 @@ hash = "f50e9b66d0be7909fd407bf2e0b572ae04a26be595535dd8e1414a990bc890d2"
 metafile = true
 
 [[files]]
+file = "mods/animal-weight.pw.toml"
+hash = "e5249e18f04ef72c35f19680892abcf2fce7f9b60aede2129aee5714491a5390"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
@@ -406,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib-neoforge.pw.toml"
-hash = "15e51968c33d3ccec2feccd502375b8b25dace9cfff7b98250846a942145755b"
+hash = "16bb0534b3b31c545b7502e092fef293245cd5c1a80713e13d525042f25c26a0"
 metafile = true
 
 [[files]]
@@ -431,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend-neoforge.pw.toml"
-hash = "a4b78dad3d3454bb1acd4dc02e2fd56b7e04a39e2a7c310ff4313891dceefc5f"
+hash = "bb3508cdd63e4affcc0812921f8686f4bea7971043146a2b0c6bbd33f901e8aa"
 metafile = true
 
 [[files]]
@@ -607,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/create-more-parallel-pipes.pw.toml"
 hash = "fe642f391d1da67b5308987fb8ed3f4e1914d92bb181d8c05c6f5635e886b635"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
 metafile = true
 
 [[files]]
@@ -1201,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
-hash = "98fb4cfdaf7cd148ea5dc9aee3238108c1248f85a7f7212f45406ed6a4a8c682"
+hash = "3eec79641f91bbfa2d9bc44ba0b445c76475241459b1a7e1797326d3aeb7798a"
 metafile = true
 
 [[files]]
