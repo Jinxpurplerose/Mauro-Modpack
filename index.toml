@@ -165,6 +165,10 @@ file = "kubejs/assets/kubejs/textures/item/incomplete_nethersteel_billet.png"
 hash = "23834ccdbff8ee0129a4daed626cb8952daec8bf559c29719b1fac58d5ccfcf5"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_steam_engine.png"
+hash = "98f65e55a734662cbda64ddd8cfdf33827e896bf15ef29d9ef1bacca24618d31"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_steel_billet.png"
 hash = "930e38a36966ab00f0fa1e70d0e2adcd9e604b4abb2a0840cc4077ee9d320c75"
 
@@ -347,6 +351,10 @@ hash = "f29e646db7782ce3d150b875065c09840a571d445dc44ab2e90904083d06ccdc"
 [[files]]
 file = "kubejs/startup_scripts/heavy_oil.js"
 hash = "4bb055093c5f7ec8f59d5fb82153eebd6c180b43bd5de52f6a4ea878c4c0d3a0"
+
+[[files]]
+file = "kubejs/startup_scripts/incomplete_steam_engine.js"
+hash = "e82087facea68b0e012d5c86948fedb8bb979135d5cff8d1b9ef258372b73e4b"
 
 [[files]]
 file = "kubejs/startup_scripts/metallworks.js"
