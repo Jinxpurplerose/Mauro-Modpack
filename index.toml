@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib-neoforge.pw.toml"
-hash = "16bb0534b3b31c545b7502e092fef293245cd5c1a80713e13d525042f25c26a0"
+hash = "e9d3a35de86ee3896a01257fd5f0f31ae3934db5fa329aefa3e56ebdfef5a7a6"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend-neoforge.pw.toml"
-hash = "bb3508cdd63e4affcc0812921f8686f4bea7971043146a2b0c6bbd33f901e8aa"
+hash = "a45c19a6575ea92caac156ec7f3d7e2c1deb236a74404a7dd79b04070064f4d9"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "0eb96a006037be8217da17688648066ad87364f96015aa77cfcebcbebb0a599f"
+hash = "7bad51fa5f79cb28a5130afd5355e31d3a5157f4747633faf3a92d9a01639cef"
 metafile = true
 
 [[files]]
@@ -874,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "151c6109fbf47211edc068a924e11c4b9a76dd60ce9e1561d467ac5d82dd698e"
+hash = "4002253b9c10dad252ac7c3b4234b47a8f9b2f73cda4bbc8b377ac6c039a4a61"
 metafile = true
 
 [[files]]
@@ -969,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1707b4f1e3df638815211af1336c4d565d7eeae0b629527f1f9cd14eae9c0335"
+hash = "14fc787461cc4464d476454c0d06b7ecbc988e5582d51d527a43a450be9de92d"
 metafile = true
 
 [[files]]
@@ -1089,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "5678906e07766684d2586009d338363a95747b4c489624d8906318d0150aae31"
+hash = "0494bf33dd41c156edd51c50b443926a1c311548fdf74cd73ac1577b02555025"
 metafile = true
 
 [[files]]
@@ -1104,7 +1104,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a2348299d70ed7af9bb57b1a8ff034dd3136ff9468aa91479405f2599cd1c0a9"
+hash = "a1f6bfecd4098396ad7df0ec212ebd5b76fe1c14223f9e4a712eb16738fc5b7a"
 metafile = true
 
 [[files]]
