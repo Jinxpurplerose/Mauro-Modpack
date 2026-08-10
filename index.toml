@@ -463,6 +463,11 @@ hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "ead3aff0899e5bc61eb22fe0af86722b430f9e92990b3cd2720d5c2c1f66d023"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
@@ -618,6 +623,11 @@ hash = "d327df3f6a94994d53cd6095cb8e0af813cab6e31ba49bc5f048ebfdd42d4b6e"
 metafile = true
 
 [[files]]
+file = "mods/create-more-girder.pw.toml"
+hash = "cda482d5d0f2d62e546a7ca2f0c528b945dc937a50df851f6af1e30f7a68a77b"
+metafile = true
+
+[[files]]
 file = "mods/create-more-parallel-pipes.pw.toml"
 hash = "fe642f391d1da67b5308987fb8ed3f4e1914d92bb181d8c05c6f5635e886b635"
 metafile = true
@@ -658,8 +668,18 @@ hash = "51851da1eec44c74801f9b00525c119aa136be6b4c4ba2b5bd8b6d0dcf4791df"
 metafile = true
 
 [[files]]
+file = "mods/creature-feature.pw.toml"
+hash = "e73ae02057ed4b642179b48244d226233cc15d61881e44b43b0fe54cdf6e8248"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "9441e0a305d19725ed73bfe5199263bc1617e7fffc67bd56534ef89a294535ed"
+metafile = true
+
+[[files]]
+file = "mods/cult-of-azazel.pw.toml"
+hash = "ab8f297a47bba30936ea74811939a1f8c37748d95cbe3709dcc9ec20b3cdfa53"
 metafile = true
 
 [[files]]
@@ -798,6 +818,11 @@ hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
 metafile = true
 
 [[files]]
+file = "mods/geckolibbetterfps.pw.toml"
+hash = "23a8afbf1fb0fd6019a376e7b5d03d6650aad9cc68bb87205c1920898748d301"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
@@ -895,6 +920,11 @@ metafile = true
 [[files]]
 file = "mods/keybind-atlas.pw.toml"
 hash = "84914fc3e4a0dc029068bc402fcd23c9c2059108b57de31b0bc7bbe7b2b10fa8"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "84f4b09b7ef3ef75478cfa6d126951958444d612375c99b1c4e7e6bdbef28c1c"
 metafile = true
 
 [[files]]
@@ -1115,6 +1145,11 @@ metafile = true
 [[files]]
 file = "mods/smart-particles.pw.toml"
 hash = "89e97de7391c16980820709641fc221fc0b14c6225d0f6a8671d484db33ed8e7"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "f4ffd3a4e85fc67c3cdaa3edaf881a7680b719b0d2e89c5087e4caedb45585eb"
 metafile = true
 
 [[files]]
