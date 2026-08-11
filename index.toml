@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "a14e9ed4bc93ee337742e04390f4f1f2d04a7a54453c73e9bd8d365591691614"
+hash = "039ca1864afaf11b12e0c8ec21bb9f5bffa77a6d776bd3c0e56b8f7f8c77f7fb"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "24dd4c8fdc65774d96e10b0ee313cd5e8e44675a295671d5d47d0ab4bb35b15d"
+hash = "e8ab66eb1c15748715973b0cbfebb28affe1d67463cf6235da7619ed9230f2e1"
 metafile = true
 
 [[files]]
@@ -899,7 +899,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4002253b9c10dad252ac7c3b4234b47a8f9b2f73cda4bbc8b377ac6c039a4a61"
+hash = "047c8620059e1044e547a23cf239d8bcd182f1d9d0584131aec29df6f7c65d8b"
 metafile = true
 
 [[files]]
