@@ -1,0 +1,13 @@
+name = "Gauntlet Cursor"
+filename = "Gauntlet Cursor.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fNUwK8Al/versions/iKv7fzin/Gauntlet%20Cursor.zip"
+hash-format = "sha512"
+hash = "ef366bd51214fe1618b9d44aa0a1aed37130d22c8da3b123840892ca81ab7653fd1a6170de802418035dc734a4fa30377527e0db4a35654327abea69b751db2f"
+
+[update]
+[update.modrinth]
+mod-id = "fNUwK8Al"
+version = "iKv7fzin"

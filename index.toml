@@ -983,6 +983,11 @@ hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-cursor.pw.toml"
+hash = "3287912d6b3f959b32d93e302c211341b93bd0facf18fc25afe2ba2f05d5aa63"
+metafile = true
+
+[[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "6309c1eba3f762ba6141a0369c5be7673a3056cc3804a8ff424300551157f8bd"
 metafile = true
@@ -1035,6 +1040,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
+metafile = true
+
+[[files]]
+file = "mods/paintersinc.pw.toml"
+hash = "b8b26a570f9ae36c11f5cf159eb236579adcd441047a2c8708a2e86f8ce9099a"
 metafile = true
 
 [[files]]
@@ -1125,6 +1135,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
+metafile = true
+
+[[files]]
+file = "mods/shine.pw.toml"
+hash = "a52ff6b4078ff847efb356f07e4f46238d66615ca178269b1cb129d146dd1745"
 metafile = true
 
 [[files]]
@@ -1279,6 +1294,11 @@ hash = "8dddb1c06a8a25f765e4d00f9bc29b6ec89bf9a0f958ffcbd2ac1a8983b2eec8"
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
 hash = "6d198fcead3ae516d33d9011f3ecf9717a72b963aadea7a6b3ad7f0c7cada070"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gauntlet-cursor.pw.toml"
+hash = "e6589f7a89751b34195c923d2ebe7db7ec06a7c2cbfc8dd685c324f53dece1f3"
 metafile = true
 
 [[files]]
