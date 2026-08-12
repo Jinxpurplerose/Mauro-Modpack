@@ -1009,7 +1009,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "d126f045e2cc43c9142ea4bcb2acec1917351fc6416eb71bf0bc8d32f7bfe69f"
+hash = "7b3dcdeb0cda62f184768f808e3e207cd837cad0c40aef786d3f26e87035cce3"
 metafile = true
 
 [[files]]
@@ -1259,7 +1259,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "8d52171b17cc8d9a7f765f7eb84f6524f10fccda0ed65b1dffd2e665996e8b9b"
+hash = "d0e90483f12d6ed7a49791aa28f990671278a47b1dc51ba88ac63480b1367ae2"
 metafile = true
 
 [[files]]
