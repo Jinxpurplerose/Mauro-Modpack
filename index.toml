@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternether-neoforge.pw.toml"
-hash = "a8e620eb8b69aea294a85177337aa7f7af080fdc5f12c1ad4fee10767af35b6f"
+hash = "382c66a223c56755feaea42fc2609eb09870c75f55d7bf41f1752911845b5f58"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "5c4c63c7e91f5e2a012d5d0e9cd28e5aed5904b59d6d7d8424b28d7aa6060907"
+hash = "ee18c9b942d0f7902f387ebd144f998f564975b8258e05eb589ecea0a3f5dc17"
 metafile = true
 
 [[files]]
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "6fb1b211e2501d43628ae5d1b7c65616341235d39a5b5f608cf0a06a350c1e21"
+hash = "ad5d6dd127aa6ff7e8881491be181d68702aede317297d1650b257b41a9c25e6"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "51851da1eec44c74801f9b00525c119aa136be6b4c4ba2b5bd8b6d0dcf4791df"
+hash = "6290345da4e95c76da5b050e17c337503bcd0a6b8f38cbd819595da48d11dfb4"
 metafile = true
 
 [[files]]
@@ -1014,7 +1014,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "74a47e823adeaa80301516a154d3a5299ce83da742702416c797668d491209d1"
+hash = "9d203ce8a2774419a67af81ae0883a2e1763517a242ee5d682f05608e5183b9d"
 metafile = true
 
 [[files]]
@@ -1204,7 +1204,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "842ffef1c69ad33d4b21f779399c46366009332a375a979ba19dd57e0e1e0162"
+hash = "e58445d8ff30273c8ee9d7a21ce224c8ce4de73f4367176a72cdaf7b389553bc"
 metafile = true
 
 [[files]]
@@ -1249,7 +1249,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "577123bcc805ab589e818d4659ec0b45d2dee373ddeae973697887223b8cf27d"
+hash = "fbbb3c7cb4e88d60eb9f9cd64c47fce6b91132f871619ae7e6ffb9ac079702e3"
 metafile = true
 
 [[files]]

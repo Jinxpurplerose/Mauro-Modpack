@@ -1,13 +1,13 @@
 name = "BetterNether Neoforge"
-filename = "BetterNether-21.0.25.jar"
+filename = "BetterNether-21.0.26.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fxX3RlL5/versions/TX8e0OlH/BetterNether-21.0.25.jar"
+url = "https://cdn.modrinth.com/data/fxX3RlL5/versions/TTPM28HH/BetterNether-21.0.26.jar"
 hash-format = "sha512"
-hash = "f9ad57f333b480a7e0653d5fa662d821ad6c78053c01ea588f51fd42240486c87adbef0f66cfff2c8a23f4d1ea65d2b4e01207ecf71005f1e377255f954fc80b"
+hash = "e86ce10f94169d975583881af0e6155f3b1a6ab5bbf5b36ad8d18209f3a9238adab35d9c22bcbdfb5f6c9635ec3f31c351ffd6d54255b965281d46b8a52ecd4a"
 
 [update]
 [update.modrinth]
 mod-id = "fxX3RlL5"
-version = "TX8e0OlH"
+version = "TTPM28HH"
