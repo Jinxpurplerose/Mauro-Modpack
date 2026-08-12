@@ -1013,11 +1013,6 @@ hash = "7b3dcdeb0cda62f184768f808e3e207cd837cad0c40aef786d3f26e87035cce3"
 metafile = true
 
 [[files]]
-file = "mods/mru.pw.toml"
-hash = "9d203ce8a2774419a67af81ae0883a2e1763517a242ee5d682f05608e5183b9d"
-metafile = true
-
-[[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "ceca044e7cabf16b147a79c0800235249d26a95075058970c77957b1a1054d3c"
 metafile = true
