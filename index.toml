@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f4ed8dbabc400434daa13b37041055261f3a74af387e4aea8ba8ca12ef142b4c"
+hash = "7dba9a4a9894a6bbab3a8c7edcc718499297412247fc0e8ccebf75b760c85140"
 metafile = true
 
 [[files]]
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "ad5d6dd127aa6ff7e8881491be181d68702aede317297d1650b257b41a9c25e6"
+hash = "87cc67538d60973cf296adf7cd6f198b2aa2ffb5a2a17e3ce9977c0cd05ddcef"
 metafile = true
 
 [[files]]
@@ -669,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/creature-feature.pw.toml"
-hash = "e73ae02057ed4b642179b48244d226233cc15d61881e44b43b0fe54cdf6e8248"
+hash = "55d1e9f8ee61707ac6e4069ce785c0d3bcb04e03d5c4fb88546849fab99d4608"
 metafile = true
 
 [[files]]
@@ -754,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "9e808c1647e29fde564148337ecde37f7c6a183f38ec192d4e3854ee715a5467"
+hash = "755fdc3f22b651ecb7e8745f7ded002621bc76054207d5a66ae9cb2e5f8322f0"
 metafile = true
 
 [[files]]
@@ -1244,7 +1244,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "fbbb3c7cb4e88d60eb9f9cd64c47fce6b91132f871619ae7e6ffb9ac079702e3"
+hash = "83515b23902492ac0210a70039585124490253309612e8a1b42c277de35755ca"
 metafile = true
 
 [[files]]
