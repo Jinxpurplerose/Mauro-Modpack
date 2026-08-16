@@ -868,6 +868,11 @@ hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
 metafile = true
 
 [[files]]
+file = "mods/isleweaver.pw.toml"
+hash = "dbbb5e1e60907fa2ce02e551f9e60bbf34a86fd1a9856181f3ff00036f7c3304"
+metafile = true
+
+[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "5fc7c2f3e1433fb16388e6f03dd752fc7adc9abcc7a9e04945e3e1cff343604c"
 metafile = true
@@ -1190,6 +1195,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/the-beyond.pw.toml"
+hash = "b6679b92ca92c38c922953c4f1a51dfff8b690fa77c581afa57c1d69dc892966"
 metafile = true
 
 [[files]]
