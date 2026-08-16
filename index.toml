@@ -418,11 +418,6 @@ hash = "7dba9a4a9894a6bbab3a8c7edcc718499297412247fc0e8ccebf75b760c85140"
 metafile = true
 
 [[files]]
-file = "mods/bclib-neoforge.pw.toml"
-hash = "e9d3a35de86ee3896a01257fd5f0f31ae3934db5fa329aefa3e56ebdfef5a7a6"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
 metafile = true
@@ -443,18 +438,8 @@ hash = "669393425acede319660ecc9bcbd12331a35936dd56ca4546e9e978e9fb70d4b"
 metafile = true
 
 [[files]]
-file = "mods/betterend-neoforge.pw.toml"
-hash = "a45c19a6575ea92caac156ec7f3d7e2c1deb236a74404a7dd79b04070064f4d9"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
-metafile = true
-
-[[files]]
-file = "mods/betternether-neoforge.pw.toml"
-hash = "382c66a223c56755feaea42fc2609eb09870c75f55d7bf41f1752911845b5f58"
 metafile = true
 
 [[files]]
@@ -1260,16 +1245,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
-metafile = true
-
-[[files]]
-file = "mods/worldweaver-neoforge.pw.toml"
-hash = "3eec79641f91bbfa2d9bc44ba0b445c76475241459b1a7e1797326d3aeb7798a"
-metafile = true
-
-[[files]]
-file = "mods/wunderlib-neoforge.pw.toml"
-hash = "be9540e46f1fb23ecc35d79b468480558924c518f759e46783f9d9de68b772f3"
 metafile = true
 
 [[files]]
