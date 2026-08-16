@@ -1,13 +1,13 @@
 name = "Creature Feature"
-filename = "creaturefeature-1.2.2.1.jar"
+filename = "creaturefeature-1.2.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7nEkcq0F/versions/afzomdoe/creaturefeature-1.2.2.1.jar"
+url = "https://cdn.modrinth.com/data/7nEkcq0F/versions/lCcKRKFT/creaturefeature-1.2.2.2.jar"
 hash-format = "sha512"
-hash = "8e7674ca38ab1cac78441a5b9058b6ba7320a033ef013733ff4c7f15319770570f7e2bd3f8b0bf4df5173f8c012a5474a138c55ee1aab46aac2fd5428f2083f9"
+hash = "c6cd34af7bc3ea93333ed979f27acdac0026ebac6ceb2e8093e2e0f8f772416f8d5ac8c80de376484c43b661916666cbc0174563c558d012bff139fcfe57c7bf"
 
 [update]
 [update.modrinth]
 mod-id = "7nEkcq0F"
-version = "afzomdoe"
+version = "lCcKRKFT"
