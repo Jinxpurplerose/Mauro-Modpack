@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
+hash = "d438d05c61167c95de2b282bb3839a290f819f70c9d313c5e61177d69a29c704"
 metafile = true
 
 [[files]]
@@ -734,12 +734,12 @@ metafile = true
 
 [[files]]
 file = "mods/escalated.pw.toml"
-hash = "5822270769e6a4d6372fa5d88eeb003f719a539cc60eb047006cfa9b81baab02"
+hash = "528ae7ee97068e0250282f449ee8224ff6f3dfd3b66c50d7651590b43080c7a8"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "755fdc3f22b651ecb7e8745f7ded002621bc76054207d5a66ae9cb2e5f8322f0"
+hash = "ad90b35d953694bdd8f8f1efa7b05415686155760ec3def1ff69e26eb21341aa"
 metafile = true
 
 [[files]]
@@ -764,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
+hash = "748f98aed76975838bd79cb4f5d06eb68aad156394239de5fa70302a02448a5b"
 metafile = true
 
 [[files]]
@@ -784,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "704888446d5c1e5a5320ae191ab26346f9b41f3564f601d251ac1a294fa3581e"
+hash = "e3c62164f1eed254aa04629bce3d62b34a65bf15801d2ffb1bf1373a0b97c544"
 metafile = true
 
 [[files]]
@@ -824,12 +824,12 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
-hash = "6b600644bc76fcb7e45921d5d3dc55605fc155add265c04ed79a1545ba9109d0"
+hash = "d18f1ea4c6c1c2f99f18a8725d11e14c93abd29988df24c967794fc52e9c969c"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "37c3d507be086258aec8a0814224578a1c665749adbb0332d33c32a684086d94"
+hash = "d88c046f0312e7f5f2d1f42d142f0b5ffd626083707cf963ad3559d682c9ad34"
 metafile = true
 
 [[files]]
@@ -889,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "047c8620059e1044e547a23cf239d8bcd182f1d9d0584131aec29df6f7c65d8b"
+hash = "cc9ff8f836b242932bc70428c785c1b24838bf4a008f1614aa8c2fcbd3fd86d4"
 metafile = true
 
 [[files]]
@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cc903ca450e9667ad5a951110f6e84f22c9e52635bf39321ca4294bc8313797e"
+hash = "6e9d9c2c85d3f2c41f93f77d1f7bb9efe518368348ce8bcd82e7a8128a281c72"
 metafile = true
 
 [[files]]
@@ -1109,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
+hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
 metafile = true
 
 [[files]]
@@ -1239,7 +1239,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "83515b23902492ac0210a70039585124490253309612e8a1b42c277de35755ca"
+hash = "040b6ebf5597bc3fda75a00e0fc17644fb7853a08717249ae3da183a93e5075c"
 metafile = true
 
 [[files]]
