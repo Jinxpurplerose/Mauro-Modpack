@@ -1,0 +1,13 @@
+name = "Elysium API"
+filename = "ElysiumAPI-1.21.1-2.0.0-BETA.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6YTvv3aI/versions/fNNKNu4Y/ElysiumAPI-1.21.1-2.0.0-BETA.24.jar"
+hash-format = "sha512"
+hash = "7f02ecefba3c8dba96d72c2ae89357fa0d021068cbccd7cd0642eae4179c17b3fa248b6b2dd369cfa1afe8628560c94bf81e8366b1c8a8a1685180f62ed72a65"
+
+[update]
+[update.modrinth]
+mod-id = "6YTvv3aI"
+version = "fNNKNu4Y"

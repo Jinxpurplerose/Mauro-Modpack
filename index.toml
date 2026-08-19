@@ -703,6 +703,11 @@ hash = "e2a3aca8101a179153b92e99000a10d06e4b5d285d358fbe457a53690d12dab5"
 metafile = true
 
 [[files]]
+file = "mods/elysium-api.pw.toml"
+hash = "84b2afe78368d2acaba7ccb93e050149a68bf3cff660e332d039fb59e519ff40"
+metafile = true
+
+[[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "1598c4eaca8666404c4d1dbf117c7afff4aaa384cd3d4dc131a8a11b7dfc1616"
 metafile = true
@@ -793,6 +798,11 @@ hash = "3944c175d3409b2db40630cdc0be1cad181009cc3c20c925328cb9b04bea0108"
 metafile = true
 
 [[files]]
+file = "mods/gallery.pw.toml"
+hash = "b98c428b3eaca3332047b113673235526418fcc1d2b55e660dc4308d73b85ae5"
+metafile = true
+
+[[files]]
 file = "mods/gardens-of-the-dead.pw.toml"
 hash = "6c1677ae7dfc3a37abc7e0b748c53ee251093d8f29f1710505d4d5df76fe18af"
 metafile = true
@@ -843,6 +853,11 @@ hash = "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7"
 metafile = true
 
 [[files]]
+file = "mods/incubation.pw.toml"
+hash = "570ab6eb7be33c305979aa1982e9410e9060d804396decf3859aade3be2ccc3a"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "8e5e8e0c5e2a5f1de43a73d3e81d0397a3873d383d885a9aaa080a7e0c2b242f"
 metafile = true
@@ -885,6 +900,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
+metafile = true
+
+[[files]]
+file = "mods/jadens-nether-expansion.pw.toml"
+hash = "31900322d05eb94a345c9ac3df81bf1f0e10b348d8c69eea93ff1c0ebfd5f4e3"
 metafile = true
 
 [[files]]
@@ -1173,6 +1193,11 @@ hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
+file = "mods/spawn-mod.pw.toml"
+hash = "45f07b742198a4b8b8de46f618527ecef483bbba87d557c18cfbd8ac5e6750f8"
+metafile = true
+
+[[files]]
 file = "mods/steam-n-rails-neoforge.pw.toml"
 hash = "60d6921ec70b1c098fcfbf0254022b7a9a3a859635e6857fd6dc64c12381aeac"
 metafile = true
@@ -1190,6 +1215,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "e58445d8ff30273c8ee9d7a21ce224c8ce4de73f4367176a72cdaf7b389553bc"
+metafile = true
+
+[[files]]
+file = "mods/teallib.pw.toml"
+hash = "99f89e803723e4684bff03fe6bf7c1dae431e198ed50ef06f624d0d6397568ab"
 metafile = true
 
 [[files]]
