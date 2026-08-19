@@ -983,6 +983,11 @@ hash = "c861621c655d44fe78279ddc76d5881fa4ad2fdf52c7ed3a84864b988a3e0b64"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "535e8e9c6bc184e9771cf4e35795c8f162d89abeb5b9aed9c2ea2988c710776f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "fb6171c8f7ff0d83513b3f75ee5d7a98659559c427d79fb69eb0219639af8a37"
 metafile = true
