@@ -81,7 +81,7 @@ file = "kubejs/assets/kubejs/textures/item/doped_quartz_alloy.png"
 hash = "0103829c148d2b50604070c81c6cded29e7dc3ef8b260865a55d6a49f1ff400a"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/doped_quartz_wafer.png"
+file = "kubejs/assets/kubejs/textures/item/doped_quartz_waffer.png"
 hash = "6f58eaf05cd5476f51c8e399f39fbf9d02989377f616ef660d649073f326c185"
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
+hash = "758e1da51af7eb1789b05635f3690b24b7c6dd6a51eb94a52b3c4c134987226e"
 metafile = true
 
 [[files]]
@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-girder.pw.toml"
-hash = "cda482d5d0f2d62e546a7ca2f0c528b945dc937a50df851f6af1e30f7a68a77b"
+hash = "a4df78f6f71d299dae9712c228eea9fb42748133877e464c52a1b0124f31fe00"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/elysium-api.pw.toml"
-hash = "84b2afe78368d2acaba7ccb93e050149a68bf3cff660e332d039fb59e519ff40"
+hash = "db1b48d128dcd6bbd0785aad18f7bc5f55991f78d489321d2bba7ad507a09459"
 metafile = true
 
 [[files]]
@@ -916,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/jadens-nether-expansion.pw.toml"
-hash = "31900322d05eb94a345c9ac3df81bf1f0e10b348d8c69eea93ff1c0ebfd5f4e3"
+hash = "16a56d2517b64eb5a03d56faa6427ccfbb92c3a1a1cb730d5d024df24f7f0bab"
 metafile = true
 
 [[files]]
@@ -1031,7 +1031,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "6e9d9c2c85d3f2c41f93f77d1f7bb9efe518368348ce8bcd82e7a8128a281c72"
+hash = "4e8c07523024ba37f1064f1dcc0c3dbb65996d4976a71dd30f239d3e6efbe096"
 metafile = true
 
 [[files]]
@@ -1096,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "8200e1103fad79c3cf17f583f99436db5be89c268ee4bc225e09eb0ce4c9385f"
+hash = "616293f8de513cf2b022fc521fa49ed96298da6a7e42cdbb513604f384c1bb5e"
 metafile = true
 
 [[files]]
@@ -1225,13 +1225,18 @@ hash = "db845eb158247bde04edc727945fbf67c6a46f0cbe4d2a1e9142263c022c73f8"
 metafile = true
 
 [[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "d9cd1c203e2aa78965d456ded1527099583d1c233bfc88fb0c8005e0967b06de"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "ccb454443d90a9bbbd60cfb05cf5cc8bc7235b981c89e40dc7796a41277e56b1"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e58445d8ff30273c8ee9d7a21ce224c8ce4de73f4367176a72cdaf7b389553bc"
+hash = "1cb429276e440bbb9b9b1a0007422e3c4edb9569290ab9a19809ad11f66a6b75"
 metafile = true
 
 [[files]]
