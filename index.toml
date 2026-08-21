@@ -1078,6 +1078,11 @@ hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "0a8751beba30f064c60e2baa923aa677ff2e885f065cff915a9e771190c47053"
+metafile = true
+
+[[files]]
 file = "mods/punchy-fpa.pw.toml"
 hash = "8200e1103fad79c3cf17f583f99436db5be89c268ee4bc225e09eb0ce4c9385f"
 metafile = true
@@ -1198,11 +1203,6 @@ hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
-file = "mods/spawn-mod.pw.toml"
-hash = "45f07b742198a4b8b8de46f618527ecef483bbba87d557c18cfbd8ac5e6750f8"
-metafile = true
-
-[[files]]
 file = "mods/steam-n-rails-neoforge.pw.toml"
 hash = "60d6921ec70b1c098fcfbf0254022b7a9a3a859635e6857fd6dc64c12381aeac"
 metafile = true
@@ -1220,11 +1220,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "e58445d8ff30273c8ee9d7a21ce224c8ce4de73f4367176a72cdaf7b389553bc"
-metafile = true
-
-[[files]]
-file = "mods/teallib.pw.toml"
-hash = "99f89e803723e4684bff03fe6bf7c1dae431e198ed50ef06f624d0d6397568ab"
 metafile = true
 
 [[files]]
