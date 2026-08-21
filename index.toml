@@ -77,6 +77,14 @@ file = "kubejs/assets/kubejs/textures/item/dirty_zinc_dust.png"
 hash = "534470d11adfbdf44b134accbcb8a2a6a770b05719bcdee83632ac47eace9603"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/doped_quartz_alloy.png"
+hash = "0103829c148d2b50604070c81c6cded29e7dc3ef8b260865a55d6a49f1ff400a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/doped_quartz_wafer.png"
+hash = "6f58eaf05cd5476f51c8e399f39fbf9d02989377f616ef660d649073f326c185"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/engine_base.png"
 hash = "da674dda9707851f8083a709222c67dcd585de0cc3495adc79938c6dea8e6d26"
 
@@ -343,6 +351,10 @@ hash = "a792057a8822409d504fa7b5ec3fae80ee0dec6fd90bb536d64d79eb0552f6ce"
 [[files]]
 file = "kubejs/startup_scripts/diesel_engines.js"
 hash = "a76d8c44dcce9b8ce82b4c97b63966386eccb77ace60750be2be3b4f734d7606"
+
+[[files]]
+file = "kubejs/startup_scripts/doped_quartz.js"
+hash = "240cb02b41d23cc14ac87e075a979dec6b5223c3ec27af8b8e50530a9870b331"
 
 [[files]]
 file = "kubejs/startup_scripts/ferrosilicon_registry.js"
@@ -1254,7 +1266,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-physics.pw.toml"
-hash = "9e19e3b808d9d7d064dd652025fc49432403aadf97987b12f74e54d0dd94873a"
+hash = "0c084b716102bb33d1b14ebd707a732cd807ddebc135989ee12664b58e3ad7f8"
 metafile = true
 
 [[files]]
