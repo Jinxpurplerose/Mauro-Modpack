@@ -855,16 +855,6 @@ hash = "d88c046f0312e7f5f2d1f42d142f0b5ffd626083707cf963ad3559d682c9ad34"
 metafile = true
 
 [[files]]
-file = "mods/incendium-biomes-only.pw.toml"
-hash = "4bc8c10a214cb6ae0a6817f2a05e52cd85da7ab2f168923a38146ff27b10f182"
-metafile = true
-
-[[files]]
-file = "mods/incendium.pw.toml"
-hash = "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7"
-metafile = true
-
-[[files]]
 file = "mods/incubation.pw.toml"
 hash = "570ab6eb7be33c305979aa1982e9410e9060d804396decf3859aade3be2ccc3a"
 metafile = true
