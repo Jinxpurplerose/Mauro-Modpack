@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-girder.pw.toml"
-hash = "a4df78f6f71d299dae9712c228eea9fb42748133877e464c52a1b0124f31fe00"
+hash = "cda482d5d0f2d62e546a7ca2f0c528b945dc937a50df851f6af1e30f7a68a77b"
 metafile = true
 
 [[files]]
