@@ -1225,11 +1225,6 @@ hash = "db845eb158247bde04edc727945fbf67c6a46f0cbe4d2a1e9142263c022c73f8"
 metafile = true
 
 [[files]]
-file = "mods/strut-your-stuff.pw.toml"
-hash = "d9cd1c203e2aa78965d456ded1527099583d1c233bfc88fb0c8005e0967b06de"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "ccb454443d90a9bbbd60cfb05cf5cc8bc7235b981c89e40dc7796a41277e56b1"
 metafile = true
