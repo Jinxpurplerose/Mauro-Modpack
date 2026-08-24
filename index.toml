@@ -661,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "e85b645ee93f88915be1e4ab421939f287accf3597cef9e69cc603a9773a6855"
+hash = "83ea88c8687aebdc1b1f09ce6da7241a3d2119574301f597982756d04e6c9e1d"
 metafile = true
 
 [[files]]
@@ -1061,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "cd2b357575f2c214e12d8c42857311dd2b45e43470de3f78d0efb364e3f0b578"
+hash = "0d5cea374479fbe79816286224c319101d266ca0e69529b3ff9b26455e637247"
 metafile = true
 
 [[files]]
@@ -1360,5 +1360,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "43c4f5e052b72a8ceaf9d8e5d1000760464d4f0e9d630827140ec4dcb21832e6"
+hash = "ca905561def034cbfa51127dd55967fbb552a7eb2a7fc2481d16676c6aa59083"
 metafile = true
