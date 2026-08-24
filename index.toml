@@ -661,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "83ea88c8687aebdc1b1f09ce6da7241a3d2119574301f597982756d04e6c9e1d"
+hash = "318c96390db6b23f50f5f7dea4db0f8394a47edf96dff25b8a0b241956790114"
 metafile = true
 
 [[files]]
