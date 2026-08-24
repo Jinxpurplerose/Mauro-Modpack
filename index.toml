@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "758e1da51af7eb1789b05635f3690b24b7c6dd6a51eb94a52b3c4c134987226e"
+hash = "a7eb11401eda3779b7f2d6f32c2964511d5c71760573f2577d55c78ca800f8a3"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/creature-feature.pw.toml"
-hash = "ca13948ddf41bd7f3b52ae40a8579ad600ac77a023a9bd1dbbc50332e3a0e9b0"
+hash = "57ba911e29c68a4016d962aa39fd2d07a800c109aeb10c74a1fecdd0ce60fb8d"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/elysium-api.pw.toml"
-hash = "db1b48d128dcd6bbd0785aad18f7bc5f55991f78d489321d2bba7ad507a09459"
+hash = "320e38a0bb24767b93473c7d6c969c8ed4e3bf014d7db36a74ad646504ed16ce"
 metafile = true
 
 [[files]]
@@ -906,7 +906,7 @@ metafile = true
 
 [[files]]
 file = "mods/jadens-nether-expansion.pw.toml"
-hash = "16a56d2517b64eb5a03d56faa6427ccfbb92c3a1a1cb730d5d024df24f7f0bab"
+hash = "158d6b6f19d486d49b989eca3797078e24c093fc75004c13a4c71e3dbdf9d7f2"
 metafile = true
 
 [[files]]
@@ -1021,7 +1021,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4e8c07523024ba37f1064f1dcc0c3dbb65996d4976a71dd30f239d3e6efbe096"
+hash = "b91cb844a09b8a4accd27d3d2882f37aec5cef58e7b43b315da65ee8caf9e957"
 metafile = true
 
 [[files]]

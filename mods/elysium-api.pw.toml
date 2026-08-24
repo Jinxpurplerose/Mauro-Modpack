@@ -1,13 +1,13 @@
 name = "Elysium API"
-filename = "ElysiumAPI-1.21.1-2.0.0.jar"
+filename = "ElysiumAPI-1.21.1-2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6YTvv3aI/versions/9AGJWXpG/ElysiumAPI-1.21.1-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/6YTvv3aI/versions/d2JaQ362/ElysiumAPI-1.21.1-2.0.1.jar"
 hash-format = "sha512"
-hash = "d04741aab1dc2fc5999466cbaad7772e6f5c536a9886b6a0904d5b7e01beb0bf498c176f2cba810f616ba4a51fbc791381c227a5c502c80ae4e12094019c41de"
+hash = "22daa9fa8018baeeaaec1d5c3e91e13099300208ca2c6d57fbba63d9fddef583a097b9ebe0b590b5095f48a449c6230cdf193d22d4d7501c9725918d984448db"
 
 [update]
 [update.modrinth]
 mod-id = "6YTvv3aI"
-version = "9AGJWXpG"
+version = "d2JaQ362"
