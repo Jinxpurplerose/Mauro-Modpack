@@ -400,11 +400,6 @@ hash = "f50e9b66d0be7909fd407bf2e0b572ae04a26be595535dd8e1414a990bc890d2"
 metafile = true
 
 [[files]]
-file = "mods/animal-weight.pw.toml"
-hash = "e5249e18f04ef72c35f19680892abcf2fce7f9b60aede2129aee5714491a5390"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
@@ -572,11 +567,6 @@ metafile = true
 [[files]]
 file = "mods/create-coasters-simulated.pw.toml"
 hash = "d5aad6415413aa777ed89ae55912f33c86757321c7c16c8392ce2e1429b920d5"
-metafile = true
-
-[[files]]
-file = "mods/create-confectionery.pw.toml"
-hash = "421fe3905c6a32fbcc3e102dccbde7ee9dc43076c43cab25b0806f1e6b6726b7"
 metafile = true
 
 [[files]]
@@ -1077,11 +1067,6 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
-metafile = true
-
-[[files]]
-file = "mods/power-grid.pw.toml"
-hash = "0a8751beba30f064c60e2baa923aa677ff2e885f065cff915a9e771190c47053"
 metafile = true
 
 [[files]]
