@@ -610,11 +610,6 @@ hash = "d327df3f6a94994d53cd6095cb8e0af813cab6e31ba49bc5f048ebfdd42d4b6e"
 metafile = true
 
 [[files]]
-file = "mods/create-more-girder.pw.toml"
-hash = "cda482d5d0f2d62e546a7ca2f0c528b945dc937a50df851f6af1e30f7a68a77b"
-metafile = true
-
-[[files]]
 file = "mods/create-more-parallel-pipes.pw.toml"
 hash = "fe642f391d1da67b5308987fb8ed3f4e1914d92bb181d8c05c6f5635e886b635"
 metafile = true
@@ -637,6 +632,11 @@ metafile = true
 [[files]]
 file = "mods/create-tracks+.pw.toml"
 hash = "967d62bf386e87dc66ebe3dd2d6e1368bd0d0c155cb6f120a37c37802165920c"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
 
 [[files]]
@@ -925,11 +925,6 @@ hash = "84914fc3e4a0dc029068bc402fcd23c9c2059108b57de31b0bc7bbe7b2b10fa8"
 metafile = true
 
 [[files]]
-file = "mods/kiwi.pw.toml"
-hash = "84f4b09b7ef3ef75478cfa6d126951958444d612375c99b1c4e7e6bdbef28c1c"
-metafile = true
-
-[[files]]
 file = "mods/knight-lib.pw.toml"
 hash = "d672f3b1fdcec2ee78d2638e046b9562688c44550979ff4e31705c24b37081bb"
 metafile = true
@@ -1162,11 +1157,6 @@ metafile = true
 [[files]]
 file = "mods/smart-particles.pw.toml"
 hash = "89e97de7391c16980820709641fc221fc0b14c6225d0f6a8671d484db33ed8e7"
-metafile = true
-
-[[files]]
-file = "mods/snow-real-magic.pw.toml"
-hash = "f4ffd3a4e85fc67c3cdaa3edaf881a7680b719b0d2e89c5087e4caedb45585eb"
 metafile = true
 
 [[files]]
