@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "1a0d6c308340afc108e46d76bbcae162b0106e1c158da6e9108168b5991528f9"
+hash = "c26e675ce90074a015509aa6e7f46b07cf917b8477f24299d1f9ff834547e30b"
 metafile = true
 
 [[files]]
@@ -786,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "e3c62164f1eed254aa04629bce3d62b34a65bf15801d2ffb1bf1373a0b97c544"
+hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
 metafile = true
 
 [[files]]
@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d88c046f0312e7f5f2d1f42d142f0b5ffd626083707cf963ad3559d682c9ad34"
+hash = "f57772314b450b5c5d9f84d6cfccb414d1f3d72f1dfdeaf07e8ffe35d2675a92"
 metafile = true
 
 [[files]]
@@ -1041,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "cd2b357575f2c214e12d8c42857311dd2b45e43470de3f78d0efb364e3f0b578"
+hash = "0d5cea374479fbe79816286224c319101d266ca0e69529b3ff9b26455e637247"
 metafile = true
 
 [[files]]
@@ -1161,7 +1161,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c9291e44e1fd34eddbc1a2a9d69a90cb6c29d214abe4d3f282d9eaed62fa3416"
+hash = "617ec6e9893d59905035a510fe336addd46a97b6fd28fad88b70713ebf8e69e3"
 metafile = true
 
 [[files]]
