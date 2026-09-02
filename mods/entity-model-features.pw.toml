@@ -1,13 +1,17 @@
 name = "[EMF] Entity Model Features [Fabric & Forge]"
-filename = "entity_model_features-3.2.4-1.21-neoforge.jar"
+filename = "entity_model_features-3.3.3-1.21-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fcc0d7cfee5ace4dba159225edd151d90dd924b9"
+hash = "5197ec40bb17af357784d38f422ea609a5b20281"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8063559
+file-id = 8792253
 project-id = 844662
+
+[option]
+optional = true
+description = "Adds support for OptiFine custom entity models (CEM).\n\nNOTE: Best used together with Entity Texture Features (ETF). Requires compatible resource packs to work."
