@@ -11,3 +11,8 @@ hash = "cb92b662047208792e61191d372d1e255766200406c35769007101f8c578c1018938610c
 [update.modrinth]
 mod-id = "u58R1TMW"
 version = "IITF0PRC"
+
+[option]
+optional = true
+default = true
+description = "A compatibility layer that allows running Fabric mods (like Continuity) on Forge/NeoForge.\n\nWARNING: Do not disable if you want to use Fabric mods!"

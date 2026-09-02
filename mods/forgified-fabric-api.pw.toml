@@ -11,3 +11,8 @@ hash = "2b44ecd839544e3668a02f8de86433d507417d068dcafeee7f698744fc2b12fd888a1bba
 [update.modrinth]
 mod-id = "Aqlf1Shp"
 version = "V9WdDUTx"
+
+[option]
+optional = true
+default = true
+description = "A Forge/NeoForge port of the Fabric API. Required by Sinytra Connector to properly load most Fabric mods.\n\nWARNING: Essential dependency for Sinytra Connector, do not disable!"
