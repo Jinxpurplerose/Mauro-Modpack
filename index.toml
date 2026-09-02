@@ -410,11 +410,6 @@ hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
-file = "mods/async-locator-refined.pw.toml"
-hash = "db9de8c5d2712fbb38998ab3e76e02f138c32dea523727e6224d9c12323ee508"
-metafile = true
-
-[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "c26e675ce90074a015509aa6e7f46b07cf917b8477f24299d1f9ff834547e30b"
 metafile = true
