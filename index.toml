@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "d5282b7a148f4fda7d1399815ee270f89a03ce8dcac67c848c64d0d0a1691671"
+hash = "bf3dd4d5383194dfe050c34ee307645ca6546428cfc00d50628e9e712cfb2041"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "83ea88c8687aebdc1b1f09ce6da7241a3d2119574301f597982756d04e6c9e1d"
+hash = "65b099d030b7336ac545a5f5cdd604e69371800365550cf76d5cea7fb3d25fc1"
 metafile = true
 
 [[files]]

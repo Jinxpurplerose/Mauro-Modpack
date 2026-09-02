@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8043019
 project-id = 254284
+
+[option]
+optional = true
+description = "Enhances the game's atmosphere by adding rich, biome-specific ambient sounds and environmental noises.\n\nWARNING: Enable CreativeCore to work."

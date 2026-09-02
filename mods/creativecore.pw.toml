@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8699787
 project-id = 257814
+
+[option]
+optional = true
+description = "A core library mod required by AmbientSounds and other mods made by creativemd."
