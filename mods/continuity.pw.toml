@@ -14,4 +14,4 @@ project-id = 531351
 
 [option]
 optional = true
-description = "Adds OptiFine-like connected textures support for resource packs.\n\nNOTE: Since this is a Fabric mod, it requires Sinytra Connector and Forgified Fabric API to run on Forge/NeoForge."
+description = "test"

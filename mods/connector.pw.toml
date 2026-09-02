@@ -14,4 +14,4 @@ version = "IITF0PRC"
 
 [option]
 optional = true
-description = "A compatibility layer that allows running Fabric mods (like Continuity) on Forge/NeoForge.\n\nWARNING: Do not disable if you want to use Fabric mods!"
+description = "test"
