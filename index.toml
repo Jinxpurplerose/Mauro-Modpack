@@ -1080,16 +1080,6 @@ hash = "63798d5d5dce18e8558415ee791f0928e12ee2bb54ee342f4b81b58f523e3cb2"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-config.pw.toml"
-hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
@@ -1177,11 +1167,6 @@ metafile = true
 [[files]]
 file = "mods/steam-n-rails-neoforge.pw.toml"
 hash = "60d6921ec70b1c098fcfbf0254022b7a9a3a859635e6857fd6dc64c12381aeac"
-metafile = true
-
-[[files]]
-file = "mods/structure-layout-optimizer.pw.toml"
-hash = "db845eb158247bde04edc727945fbf67c6a46f0cbe4d2a1e9142263c022c73f8"
 metafile = true
 
 [[files]]
