@@ -781,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "6c97ceb42287937260a8750396433f27bac1f3e27c21b013df77d82402825560"
+hash = "e786b9671f9b928b6690919ce483b14c7a4f3fd6865c6b19018c61ae3fa5dd02"
 metafile = true
 
 [[files]]
