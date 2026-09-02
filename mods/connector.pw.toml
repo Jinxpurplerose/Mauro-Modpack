@@ -14,4 +14,5 @@ version = "IITF0PRC"
 
 [option]
 optional = true
-description = "test"
+default = true
+description = "Allows running Fabric mods on Forge/NeoForge."

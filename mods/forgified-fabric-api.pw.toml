@@ -14,4 +14,5 @@ version = "V9WdDUTx"
 
 [option]
 optional = true
-description = "test"
+default = true
+description = "Fabric API port for Forge/NeoForge.\n\nWARNING: Essential library for Sinytra Connector, do not disable!"
