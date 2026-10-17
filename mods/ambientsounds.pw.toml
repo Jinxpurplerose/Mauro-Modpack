@@ -1,18 +1,18 @@
 name = "AmbientSounds 6"
-filename = "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
+filename = "AmbientSounds_NEOFORGE_v6.3.10_mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c79ab328b2c46068effebdcb3f26e98dc4404cb0"
+hash = "aaf9b0a6e193aef8e0c57a25211a6ef02da1602e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8043019
+file-id = 9099001
 project-id = 254284
 
 [option]
 optional = true
-default = true
 description = "Enhances the game's atmosphere by adding rich, biome-specific ambient sounds and environmental noises.\n\nWARNING: Enable CreativeCore to work."
+default = true
