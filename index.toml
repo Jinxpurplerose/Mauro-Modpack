@@ -916,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/keybind-atlas.pw.toml"
-hash = "84914fc3e4a0dc029068bc402fcd23c9c2059108b57de31b0bc7bbe7b2b10fa8"
+hash = "efad2293efdaeb848035a7acb092d2bb321ae5716bd86f62c393803ca727b17a"
 metafile = true
 
 [[files]]
