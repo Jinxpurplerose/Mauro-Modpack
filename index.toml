@@ -391,12 +391,12 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "f1891368f8c782f6a8db02422f931514de914511a708fd518c2fbb65ff8882fb"
+hash = "cf5f7cb1c6b6eb47c934cf18147478a5e4763d2dfd63263797b9045b576b81e0"
 metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "4cb9e0308bc1dd4fd88d67850fb144f4f53a9bc80bb366a9f63898276583a092"
+hash = "a5790fe79f19f2dce6e338ff1816de732be5a941186da6f59659b2eb09f0b384"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "a1634218575bec86b5b83d2276b67b00a7332d6c702422f05e1515b9ec83202b"
+hash = "f5474b8d81610dcb750159e1f70f7bc8b358adac6595f11b99d2aa4204ab5afa"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights.pw.toml"
-hash = "9605566794d1fad19eec358de2d2fe6352fda625bfa1ad790ef67d31e6294022"
+hash = "a74fbcd267dd3f701edc4a7d888a5c8fbfb603076f072a95b4dd8c65308fae65"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "b876d358304cb85a137d575c8a9403c0bfd0004bc6cdbddb6fa0b0f7de55b159"
+hash = "7d121f3fdff6623383737d59828c8e6e3403f3fa7de7038802943492cb50192a"
 metafile = true
 
 [[files]]
@@ -871,12 +871,12 @@ metafile = true
 
 [[files]]
 file = "mods/isleweaver.pw.toml"
-hash = "b2faf487051eaefc6d540b6798d6360c0ee706599e0c306d7942558a70b25481"
+hash = "5cc210d63259e799b47aa228bbee91d56e91b6aa6c19942b0db4e6ab87113a6e"
 metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "c4a7da01fd934c427281cf304872e4bbc3642e61751e1e3b558547733fc2ca12"
+hash = "2d3f7b80b2f5928c2d8733be3b701e25f9b876a16a06e26a4b9ec896be86ab7f"
 metafile = true
 
 [[files]]
@@ -1066,7 +1066,7 @@ metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "38780b9259d1e63c18fd043c75ff5e618ed0ae9f339563e017b1804c8fae3c8f"
+hash = "16f16d498097d63ade3939c552f566429e6a13d1c8162a156b916b34b0ee4f84"
 metafile = true
 
 [[files]]
@@ -1161,7 +1161,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+hash = "6727704e22c27be46fc08859f94dd0061cecf27ed2a7451c5bc1a0bdf50edbe5"
 metafile = true
 
 [[files]]
@@ -1191,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-beyond.pw.toml"
-hash = "544ec6c080c4744ef0d79e863c0368e28916d933b4a93fdd66c5db3214b4f432"
+hash = "38adf4d5137b7937f0d8b01d4dd61c9bd8a4f4a7f2149e867c17b53311d21c47"
 metafile = true
 
 [[files]]
@@ -1221,7 +1221,7 @@ metafile = true
 
 [[files]]
 file = "mods/twilight-delight.pw.toml"
-hash = "5c3190c59288bea7c25cbca1805044aeb0464696ad2cb8cbe89890b23926cfa4"
+hash = "9aa2136a4b08c4d78b94a0df8f98cde40a408a70f15a1f587d4b9df5fcdfceba"
 metafile = true
 
 [[files]]

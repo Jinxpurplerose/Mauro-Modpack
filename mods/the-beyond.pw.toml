@@ -1,13 +1,13 @@
 name = "The Beyond"
-filename = "the_beyond-1.0.0.jar"
+filename = "the_beyond-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QFR0NFEH/versions/RwrA0IJe/the_beyond-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/QFR0NFEH/versions/aBH0IbX3/the_beyond-1.0.1.jar"
 hash-format = "sha512"
-hash = "709f2a8b94e92c20c505277756e563c3193618106e0c751da07eaa8d0e24f5ce7679b901ee1bdf91472cbaff6cfb5ba8704260c184b00f50d88d90cd48002416"
+hash = "a5ef455761a877414763f791a4ffbbdddde22bf19bffa5f4c15a35fb4b151c788589453c630a626405aef85dfecb5c2abeb1fdac7e9f2673075b31aaacc1a6c6"
 
 [update]
 [update.modrinth]
 mod-id = "QFR0NFEH"
-version = "RwrA0IJe"
+version = "aBH0IbX3"
