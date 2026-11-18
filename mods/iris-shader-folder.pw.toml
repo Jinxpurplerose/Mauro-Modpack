@@ -1,18 +1,17 @@
 name = "Iris/Oculus Shader Folder"
-filename = "iris_shader_folder-1.4.1-neoforge.jar"
+filename = "iris_shader_folder-1.4.3-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yv6sGJzN/versions/RdmddaSy/iris_shader_folder-1.4.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/yv6sGJzN/versions/WvgTEMyF/iris_shader_folder-1.4.3-neoforge.jar"
 hash-format = "sha512"
-hash = "5b3e7f9b50ade95700caf34c0789da22f9e52a6596a9dbf0408075c7caca1a5453a6437a106216cf1b964a613e639d56683400ec2b626c21b07094449cb3e2bb"
+hash = "c22560f1e81e3ab3e1a1aceff39cb1cc6fc9a200f0dbf0f91aaf40c110bfd8428ddae58d2c77187162459611eafc82696cb7f779a8aa6ed926b4bb208949b278"
 
 [update]
 [update.modrinth]
 mod-id = "yv6sGJzN"
-version = "RdmddaSy"
+version = "WvgTEMyF"
 
 [option]
 optional = true
-default = false
 description = "Allows you to organize your shader packs into folders within the video settings.\n\nWARNING: You MUST also enable the Iris mod for this to work, otherwise your game will crash!"
