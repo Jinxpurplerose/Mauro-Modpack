@@ -490,16 +490,6 @@ hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
-file = "mods/colorwheel-patcher.pw.toml"
-hash = "caab0399294fca902849b8eb653f56840bc107d5dbd0b0cbaab3d60ca4cc01f9"
-metafile = true
-
-[[files]]
-file = "mods/colorwheel.pw.toml"
-hash = "c7f9286eabbfd298a73a92dc91031a27a8551a7cda8656f2173a4ba8cc0ac1a2"
-metafile = true
-
-[[files]]
 file = "mods/connector.pw.toml"
 hash = "62c990314a8191312dfca2c59781880b13123d615eabe2afd3aff78629af2b5b"
 metafile = true
