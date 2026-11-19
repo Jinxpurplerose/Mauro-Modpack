@@ -11,3 +11,7 @@ hash = "58608c584e29520794e56189ce9311c53585a3c9f2bc50e0267f5c258356251f6098f063
 [update.modrinth]
 mod-id = "28XrxART"
 version = "sWjNqN1x"
+
+[option]
+optional = true
+description = "Enable to make Iris work correctly with other mods shaders."
