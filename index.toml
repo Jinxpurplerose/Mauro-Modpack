@@ -850,6 +850,11 @@ hash = "8e5e8e0c5e2a5f1de43a73d3e81d0397a3873d383d885a9aaa080a7e0c2b242f"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "75bcf3bb04bd7a546a4282728b1ade3e45d8e6584a61192354aeeed49f63b9e3"
+metafile = true
+
+[[files]]
 file = "mods/iris-shader-folder.pw.toml"
 hash = "62e51e6725cab352ad40d043dabe5c8f730495fe4bc8a3d83f9ceb2b48027579"
 metafile = true
