@@ -1,13 +1,13 @@
 name = "Knight Quest [Reforged]"
-filename = "knightquest-neoforge-1.21.1-1.9.3.jar"
+filename = "knightquest-neoforge-1.21.1-1.9.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a580ff4cc8153befebe3847f16864c9004ab6845"
+hash = "4cc3375cb0191cc87a9a625508722a9b92794bb3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8253272
+file-id = 9490146
 project-id = 1018043
