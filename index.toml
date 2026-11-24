@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/analog-audio.pw.toml"
-hash = "58115d643a48c36267b1a41771371eab5fc9dc744ad1b9f4f6fe3ffcd9c1d563"
+hash = "fa89d785bde47e6983745db370aa688cad6dbc3fcd3bf7a4dd2f57530163f652"
 metafile = true
 
 [[files]]

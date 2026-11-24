@@ -1,13 +1,13 @@
 name = "Analog Audio"
-filename = "Analog-Audio-0.1.5-hotfix.1.jar"
+filename = "Analog-Audio-0.1.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iMAVG2nH/versions/BshMjyFt/Analog-Audio-0.1.5-hotfix.1.jar"
+url = "https://cdn.modrinth.com/data/iMAVG2nH/versions/DSp3lee6/Analog-Audio-0.1.6.jar"
 hash-format = "sha512"
-hash = "b53d0d09d0c6bb864b4ff5426599a029184583ebc8117d5c50fedbd54e949434970e8bf448ce492820f60adab2116effd1a46c7a082b82f53cf7dc3fbba6b909"
+hash = "990d8124afb5beb8b6542919d53c78ffb1e6f6fd966ece575621eaa0ea5632b7f6df4ded69f4d7635011cbcc881d5dcbf6bef5ffa7b2f92ac9a8ad5d89a894c0"
 
 [update]
 [update.modrinth]
 mod-id = "iMAVG2nH"
-version = "BshMjyFt"
+version = "DSp3lee6"
